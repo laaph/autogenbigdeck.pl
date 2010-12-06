@@ -1,0 +1,261 @@
+    1 [FUT] Dryad Arbor
+    1 [ZEN] Scute Mob
+    1 [CFX] Noble Hierarch
+    1 [9E] Groundskeeper
+    1 [LE] Patron of the Wild
+    1 [MI] Granger Guildmage
+    1 [TSP] Magus of the Candelabra
+    1 [ALA] Feral Hydra
+    1 [HOP] Ivy Elemental
+    1 [M11] Protean Hydra
+    1 [FD] Tangle Asp
+    1 [GP] Dryad Sophisticate
+    1 [EX] Skyshroud War Beast
+    1 [FD] Sylvok Explorer
+    1 [FUT] Tarmogoyf
+    1 [PLC] Mire Boa
+    1 [FD] Joiner Adept
+    1 [6E] River Boa
+    1 [FNM] Sakura-Tribe Elder
+    1 [OD] Werebear
+    1 [PS] Quirion Dryad
+    1 [RAV] Vinelasher Kudzu
+    1 [FNM] Wall of Blossoms
+    1 [SOM] Blight Mamba
+    1 [MI] Wall of Roots
+    1 [ON] Broodhatch Nantuko
+    1 [PLC] Magus of the Library
+    1 [TE] Krakilin
+    1 [FD] Eternal Witness
+    1 [OD] Terravore
+    1 [RAV] Golgari Brownscale
+    1 [M10] Great Sable Stag
+    1 [CS] Ohran Viper
+    1 [EX] Mirri, Cat Warrior
+    1 [ARC] Fierce Empath
+    1 [P3] Hunting Cheetah
+    1 [M11] Awakener Druid
+    1 [EVE] Tilling Treefolk
+    1 [M10] Borderland Ranger
+    1 [ARE] Uktabi Orangutan
+    1 [DDE] Verduran Emissary
+    1 [DDE] Thornscape Battlemage
+    1 [EX] Avenging Druid
+    1 [MR] Viridian Shaman
+    1 [PLC] Ana Battlemage
+    1 [TO] Nantuko Blightcutter
+    1 [PT] Elite Cat Warrior
+    1 [ALA] Manaplasm
+    1 [SHM] Spawnwrithe
+    1 [SOK] Descendant of Masumaro
+    1 [WWK] Omnath, Locus of Mana
+    1 [RAV] Civic Wayfinder
+    1 [OD] Cartographer
+    1 [SH] Tempting Licid
+    1 [DS] Fangren Firstborn
+    1 [TO] Possessed Centaur
+    1 [M10] Master of the Wild Hunt
+    1 [TSP] Penumbra Spider
+    1 [LRW] Masked Admirers
+    1 [CS] Brooding Saurian
+    1 [M10] Cudgel Troll
+    1 [ROE] Vengevine
+    1 [MOR] Chameleon Colossus
+    1 [ROE] Wildheart Invoker
+    1 [ON] Ravenous Baloth
+    1 [LE] Nantuko Vigilante
+    1 [P3] Zodiac Horse
+    1 [P2] Wild Ox
+    1 [BOK] Sakura-Tribe Springcaller
+    1 [ALA] Rhox Charger
+    1 [P2] River Bear
+    1 [MM] Saber Ants
+    1 [ROE] Ondu Giant
+    1 [DIS] Patagia Viper
+    1 [ZEN] Oracle of Mul Daya
+    1 [SOM] Tangle Angler
+    1 [P3] Zodiac Ox
+    1 [TO] Centaur Chieftain
+    1 [AP] Anavolver
+    1 [SC] Forgotten Ancient
+    1 [ROE] Kozilek's Predator
+    1 [UD] Gamekeeper
+    1 [US] Argothian Wurm
+    1 [JU] Centaur Rootcaster
+    1 [9E] Anaconda
+    1 [JU] Brawn
+    1 [HOP] Briarhorn
+    1 [PT] Bull Hippo (DG)
+    1 [ZEN] Mold Shambler
+    1 [TE] Mongrel Pack
+    1 [FUT] Llanowar Empath
+    1 [PS] Mirrorwood Treefolk
+    1 [ALA] Algae Gharial
+    1 [9E] Silklash Spider
+    1 [AL] Gorilla Berserkers (1)
+    1 [IN] Thicket Elemental
+    1 [U] Thicket Basilisk
+    1 [P2] Sylvan Basilisk
+    1 [B] Cockatrice
+    1 [FUT] Sporoloth Ancient
+    1 [ON] Gigapede
+    1 [BD] Crashing Boars
+    1 [TE] Charging Rhino
+    1 [ALA] Mycoloth
+    1 [SOM] Acid Web Spider
+    1 [M10] Acidic Slime
+    1 [MR] Molder Slug
+    1 [DS] Ageless Entity
+    1 [REL] Ant Queen
+    1 [SOK] Arashi, the Sky Asunder
+    1 [ST] Pride of Lions
+    1 [WL] Arctic Wolves
+    1 [M11] Greater Basilisk
+    1 [SOK] Ayumi, the Last Visitor
+    1 [RAV] Ursapine
+    1 [SOM] Bellowing Tanglewurm
+    1 [ZEN] Turntimber Ranger
+    1 [TSP] Spectral Force
+    1 [PY] Thresher Beast
+    1 [BRB] Dirtcowl Wurm
+    1 [MM] Silverglade Elemental
+    1 [MGD] Mitotic Slime
+    1 [DDD] Indrik Stomphowler
+    1 [ON] Hystrodon
+    1 [OD] Rabid Elephant
+    1 [RAV] Golgari Grave-Troll
+    1 [RAV] Dowsing Shaman
+    1 [M11] Garruk's Packleader
+    1 [TSP] Durkwood Tracker
+    1 [LRW] Seedguide Ash
+    1 [PRE] Rampaging Baloths
+    1 [ZEN] Baloth Woodcrasher
+    1 [RAV] Primordial Sage
+    1 [M11] Primeval Titan
+    1 [UD] Ancient Silverback
+    1 [SHM] Witherscale Wurm
+    1 [UL] Multani, Maro-Sorcerer
+    1 [WL] Aboroth
+    1 [ON] Symbiotic Beast
+    1 [SC] Root Elemental
+    1 [SH] Carnassid
+    1 [LE] Brontotherium
+    1 [NE] Rhox
+    1 [JU] Giant Warthog
+    1 [PLC] Deadwood Treefolk
+    1 [AP] Penumbra Wurm
+    1 [CS] Panglacial Wurm
+    1 [LRW] Oakgnarl Warrior
+    1 [ARC] Krosan Tusker
+    1 [SHM] Mossbridge Troll
+    1 [M11] Duskdale Wurm
+    1 [SOM] Engulfing Slagwurm
+    1 [PRE] Allosaurus Rider
+    1 [M10] Kalonian Behemoth
+    1 [M11] Gaea's Revenge
+    1 [7E] Thorn Elemental
+    1 [WWK] Avenger of Zendikar
+    1 [DIS] Protean Hulk
+    1 [ON] Venomspout Brackus
+    1 [TSP] Havenwood Wurm
+    1 [SHM] Woodfall Primus
+    1 [WWK] Terastodon
+    1 [MR] Living Hive
+    1 [SOM] Liege of the Tangle
+    1 [FD] Bringer of the Green Dawn
+    1 [VI] Elephant Grass
+    1 [ON] Vitality Charm
+    1 [V09] Berserk
+    1 [TE] Elvish Fury
+    1 [UL] Rancor
+    1 [US] Carpet of Flowers
+    1 [TE] Mirri's Guile
+    1 [PT] Sylvan Tutor
+    1 [6E] Worldly Tutor
+    1 [DDD] Genju of the Cedars
+    1 [TSP] Molder
+    1 [TSP] Wurmcalling
+    1 [IA] Hurricane
+    1 [IN] Aggressive Urge
+    1 [FD] Tel-Jilad Justice
+    1 [ALA] Resounding Roar
+    1 [M11] Plummet
+    1 [SH] Mulch
+    1 [SHM] Gleeful Sabotage
+    1 [5E] Sylvan Library
+    1 [MM] Land Grant
+    1 [LRW] Spring Cleaning
+    1 [RAV] Life from the Loam
+    1 [M11] Back to Nature
+    1 [WWK] Quest for Renewal
+    1 [OD] Ground Seal
+    1 [B] Regrowth
+    1 [RAV] Fists of Ironwood
+    1 [CHK] Time of Need
+    1 [M11] Nature's Spiral
+    1 [PLC] Evolution Charm
+    1 [FE] Night Soil (3)
+    1 [U] Channel
+    1 [CHK] Kodama's Reach
+    1 [FD] Ferocious Charge
+    1 [CFX] Filigree Fracture
+    1 [ON] Primal Boost
+    1 [10E] Recollect
+    1 [ROE] Growth Spasm
+    1 [TSP] Krosan Grip
+    1 [MOR] Recross the Paths
+    1 [MR] Deconstruct
+    1 [MM] Tranquility
+    1 [SOK] Molting Skin
+    1 [ROE] Awakening Zone
+    1 [OD] Vivify
+    1 [GP] Wildsize
+    1 [7E] Wing Snare
+    1 [TO] Far Wanderings
+    1 [OD] Deep Reconnaissance
+    1 [JU] Elephant Guide
+    1 [M11] Cultivate
+    1 [OD] Call of the Herd
+    1 [TSP] Mwonvuli Acid-Moss
+    1 [9E] Creeping Mold
+    1 [SC] Break Asunder
+    1 [SOM] Slice in Twain
+    1 [ROE] Bear Umbra
+    1 [GAM] Garruk Wildspeaker
+    1 [7E] Rowen
+    1 [9E] Greater Good
+    1 [LRW] Woodland Guidance
+    1 [CS] Mystic Melting
+    1 [AQ] Titania's Song
+    1 [GP] Primeval Light
+    1 [DS] Reap and Sow
+    1 [NE] Skyshroud Claim
+    1 [WWK] Slingbow Trap
+    1 [US] Hush
+    1 [PLC] Hunting Wilds
+    1 [PY] Calming Verse
+    1 [SHM] Gloomwidow's Feast
+    1 [UD] Multani's Decree
+    1 [EVE] Monstrify
+    1 [UL] Defense of the Heart
+    1 [TO] Acorn Harvest
+    1 [ON] Explosive Vegetation
+    1 [IN] Restock
+    1 [EVE] Savage Conception
+    1 [SOM] Asceticism
+    1 [TSP] Verdant Embrace
+    1 [JU] Grizzly Fate
+    1 [CFX] Soul's Majesty
+    1 [AP] Tranquil Path
+    1 [FD] All Suns' Dawn
+    1 [LRW] Rootgrapple
+    1 [CHK] Honden of Life's Web
+    1 [CS] Hibernation's End
+    1 [MOR] Reach of Branches
+    1 [4E] Desert Twister
+    1 [M10] Lurking Predators
+    1 [H09] Wild Pair
+    1 [TE] Recycle
+    1 [ZEN] Cobra Trap
+    1 [FNM] Roar of the Wurm
+    

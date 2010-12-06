@@ -1,0 +1,282 @@
+    1 [FNM] Anathemancer
+    1 [GP] Angel of Despair
+    1 [CFX] Apocalypse Hydra
+    1 [VI] Army Ants
+    1 [DIS] Assault Zeppelid
+    1 [SHM] Augury Adept
+    1 [ARB] Aven Mimeomancer
+    1 [DIS] Azorius Guildmage
+    1 [GP] Blind Hunter
+    1 [CS] Blizzard Specter
+    1 [CFX] Blood Tyrant
+    1 [ARB] Bloodbraid Elf
+    1 [LRW] Brion Stoutarm
+    1 [STO] Broodmate Dragon
+    1 [ALA] Bull Cerodon
+    1 [GP] Burning-Tree Shaman
+    1 [IN] Captain Sisay
+    1 [ARB] Cerodon Yearling
+    1 [CFX] Charnelhoard Wurm
+    1 [CFX] Child of Alara
+    1 [EVE] Cold-Eyed Selkie
+    1 [EVE] Creakwood Liege
+    1 [AP] Cromat
+    1 [IN] Crosis, the Purger
+    1 [CH] Dakkon Blackblade
+    1 [IN] Darigaaz, the Igniter
+    1 [PLC] Darkheart Sliver
+    1 [ARB] Deadshot Minotaur
+    1 [CS] Deepfire Elemental
+    1 [ARB] Defiler of Souls
+    1 [RAV] Dimir Cutpurse
+    1 [RAV] Dimir Guildmage
+    1 [EVE] Doomgape
+    1 [CHP] Doran, the Siege Tower
+    1 [IN] Dromar, the Banisher
+    1 [GP] Dune-Brood Nephilim
+    1 [AP] Ebony Treefolk
+    1 [ARB] Enigma Sphinx
+    1 [ARB] Enlisted Wurm
+    1 [ARB] Esper Sojourners
+    1 [ARB] Ethercaste Knight
+    1 [AP] Flowstone Charger
+    1 [MI] Frenetic Efreet
+    1 [PLC] Frenetic Sliver
+    1 [SHM] Fulminator Mage
+    1 [AP] Fungal Shambler
+    1 [CFX] Fusion Elemental
+    1 [CS] Garza Zol, Plague Queen
+    1 [ARB] Giant Ambush Beetle
+    1 [CFX] Giltspire Avenger
+    1 [RAV] Gleancrawler
+    1 [GP] Glint-Eye Nephilim
+    1 [ALA] Godsire
+    1 [RAV] Golgari Rotwurm
+    1 [RAV] Grave-Shell Scarab
+    1 [IN] Hanna, Ship's Navigator
+    1 [LG] Hazezon Tamar
+    1 [HOP] Hearthfire Hobgoblin
+    1 [SHM] Heartmender
+    1 [DIS] Hellhole Rats
+    1 [CFX] Hellkite Hatchling
+    1 [DRB] Hellkite Overlord
+    1 [H09] Hibernation Sliver
+    1 [ARB] Igneous Pouncer
+    1 [SHM] Inkfathom Infiltrator
+    1 [SHM] Inkfathom Witch
+    1 [PLC] Intet, the Dreamer
+    1 [OD] Iridescent Angel
+    1 [TSP] Ith, High Arcanist
+    1 [GP] Izzet Guildmage
+    1 [ALA] Jhessian Infiltrator
+    1 [ARB] Jhessian Zombies
+    1 [FUT] Jhoira of the Ghitu
+    1 [ARB] Jund Sojourners
+    1 [TSP] Kaervek the Merciless
+    1 [ARB] Karrthus, Tyrant of Jund
+    1 [ALA] Kederekt Creeper
+    1 [FNM] Kitchen Finks
+    1 [IA] Kjeldoran Frostbeast
+    1 [CFX] Knight of the Reliquary
+    1 [ARB] Knotvine Paladin
+    1 [ALA] Kresh the Bloodbraided
+    1 [SHM] Kulrath Knight
+    1 [AP] Lightning Angel
+    1 [ARB] Lightning Reaver
+    1 [ARB] Lord of Extinction
+    1 [ARB] Lorescale Coatl
+    1 [RAV] Loxodon Hierarch
+    1 [ARB] Madrush Cyclops
+    1 [CFX] Maelstrom Archangel
+    1 [ARC] Magister Sphinx
+    1 [SHM] Manaforge Cinder
+    1 [CFX] Meglonoth
+    1 [ARB] Messenger Falcons
+    1 [AP] Minotaur Illusionist
+    1 [SHM] Morselhoarder
+    1 [FNM] Murderous Redcap
+    1 [OD] Mystic Enforcer
+    1 [TSB] Mystic Snake
+    1 [LRW] Nath of the Gilt-Leaf
+    1 [H09] Necrotic Sliver
+    1 [EVE] Noggle Bandit
+    1 [WWK] Novablast Wurm
+    1 [PLC] Numot, the Devastator
+    1 [SHM] Oona, Queen of the Fae
+    1 [PLC] Oros, the Avenger
+    1 [ARB] Pale Recluse
+    1 [DIS] Pride of the Clouds
+    1 [ALA] Prince of Thralls
+    1 [CFX] Progenitus
+    1 [ARB] Qasali Pridemage
+    1 [PLC] Radha, Heir to Keld
+    1 [ALA] Rafiq of the Many
+    1 [IN] Raging Kavu
+    1 [CHP] Rakdos Guildmage
+    1 [LG] Rasputin Dreamweaver
+    1 [ALA] Realm Razer
+    1 [EVE] Rendclaw Trow
+    1 [CFX] Rhox Bodyguard
+    1 [ALA] Rhox War Monk
+    1 [SHM] Rhys the Redeemed
+    1 [ALA] Rip-Clan Crasher
+    1 [IN] Rith, the Awakener
+    1 [MI] Rock Basilisk
+    1 [CH] Rubinia Soulsinger
+    1 [HOP] Rumbling Slum
+    1 [IN] Sabertooth Nishoba
+    1 [EVE] Sapling of Colfenor
+    1 [TSP] Scion of the Ur-Dragon
+    1 [ALA] Sedraxis Specter
+    1 [RAV] Selesnya Guildmage
+    1 [OD] Shadowmage Infiltrator
+    1 [ALA] Sharuum the Hegemon
+    1 [ARB] Sigiled Behemoth
+    1 [DIS] Simic Sky Swallower
+    1 [TE] Sky Spirit
+    1 [ARB] Skyclaw Thrash
+    1 [RAV] Skyknight Legionnaire
+    1 [FUT] Sliver Legion
+    1 [SC] Sliver Overlord
+    1 [SH] Sliver Queen
+    1 [OV] Sol'kanar the Swamp King
+    1 [TE] Soltari Guerrillas
+    1 [ARB] Sovereigns of Lost Alara
+    1 [ARB] Spellbound Dragon
+    1 [ARB] Sphinx of the Steel Wind
+    1 [CFX] Sphinx Summoner
+    1 [AP] Spiritmonger
+    1 [EVE] Spitemare
+    1 [GTW] Sprouting Thrinax
+    1 [EVE] Stillmoon Cavalier
+    1 [ALA] Stoic Angel
+    1 [TSP] Stonebrow, Krosan Hero
+    1 [SHM] Sygg, River Cutthroat
+    1 [PLC] Teneb, the Harvester
+    1 [LG] Tetsuo Umezawa
+    1 [ARB] Thraximundar
+    1 [ALA] Tidehollow Strix
+    1 [ALA] Tower Gargoyle
+    1 [DDE] Treva, the Renewer
+    1 [DIS] Trygon Predator
+    1 [CFX] Vagrant Plowbeasts
+    1 [REL] Vexing Shusher
+    1 [ARB] Vithian Renegades
+    1 [IN] Voracious Cobra
+    1 [PLC] Vorosh, the Hunter
+    1 [RAV] Vulturous Zombie
+    1 [GP] Wild Cantor
+    1 [CS] Wilderness Elemental
+    1 [WWK] Wrexial, the Risen Deep
+    1 [GP] Yore-Tiller Nephilim
+    1 [CS] Zur the Enchanter
+
+// Spells
+    1 [IN] Absorb
+    1 [AP] AEther Mutation
+    1 [ALA] Ajani Vengeant
+    1 [DIS] Anthem of Rakdos
+    1 [ARB] Ardent Plea
+    1 [FNM] Armadillo Cloak
+    1 [IN] Artifact Mutation
+    1 [IN] Assault/Battery
+    1 [IN] Aura Mutation
+    1 [IN] Aura Shards
+    1 [ALA] Bant Charm
+    1 [ARB] Behemoth Sledge
+    1 [ARC] Bituminous Blast
+    1 [MPR] Blightning
+    1 [HOP] Branching Bolt
+    1 [EVE] Call the Skybreaker
+    1 [EVE] Cankerous Thirst
+    1 [ARB] Captured Sunlight
+    1 [IN] Cauldron Dance
+    1 [ARB] Colossal Might
+    1 [AP] Consume Strength
+    1 [ALA] Cruel Ultimatum
+    1 [DDE] Darigaaz's Charm
+    1 [AP] Death Grasp
+    1 [AP] Death Mutation
+    1 [GP] Debtors' Knell
+    1 [OD] Decimate
+    1 [ARB] Demonic Dread
+    1 [ARB] Demonspine Whip
+    1 [PS] Destructive Flow
+    1 [EVE] Drain the Well
+    1 [CHP] Electrolyze
+    1 [ALA] Esper Charm
+    1 [ARB] Etherwrought Page
+    1 [CFX] Exploding Borders
+    1 [ARB] Fight to the Death
+    1 [ARB] Finest Hour
+    1 [FNM] Fire/Ice
+    1 [SHM] Firespout
+    1 [IN] Frenzied Tilling
+    1 [IA] Fumarole
+    1 [RAV] Gaze of the Gorgon
+    1 [AP] Gerrard's Verdict
+    1 [HOP] Glory of Warfare
+    1 [PS] Hull Breach
+    1 [JU] Hunting Grounds
+    1 [IA] Hymn of Rebirth
+    1 [EVE] Inside Out
+    1 [ARB] Intimidation Bolt
+    1 [ALA] Jund Charm
+    1 [MI] Kaervek's Purge
+    1 [AP] Last Stand
+    1 [ARB] Lavalanche
+    1 [AP] Life/Death
+    1 [RAV] Lightning Helix
+    1 [ARB] Maelstrom Nexus
+    1 [ARB] Mask of Riddles
+    1 [PTR] Mirari's Wake
+    1 [ARB] Morbid Bloom
+    1 [GP] Mortify
+    1 [ALA] Naya Charm
+    1 [CFX] Nicol Bolas, Planeswalker
+    1 [AP] Night/Day
+    1 [AP] Order/Chaos
+    1 [DIS] Overrule
+    1 [JGC] Pernicious Deed
+    1 [MI] Phyrexian Purge
+    1 [IN] Plague Spores
+    1 [SHM] Poison the Well
+    1 [ARB] Predatory Advantage
+    1 [AP] Prophetic Bolt
+    1 [MI] Purgatory
+    1 [MPR] Putrefy
+    1 [AP] Quicksilver Dagger
+    1 [IN] Reviving Vapors
+    1 [DIS] Riot Spikes
+    1 [EVE] Rise of the Hobgoblins
+    1 [PS] Rith's Charm
+    1 [ROE] Sarkhan the Mad
+    1 [ALA] Sarkhan Vol
+    1 [GP] Savage Twister
+    1 [SHM] Scar
+    1 [RAV] Shadow of Doubt
+    1 [ALA] Sigil Blessing
+    1 [ARB] Sigil of the Nayan Gods
+    1 [GTW] Slave of Bolas
+    1 [IN] Sleeper's Robe
+    1 [EVE] Snakeform
+    1 [IN] Spinal Embrace
+    1 [EVE] Spitting Image
+    1 [IN] Sterling Grove
+    1 [GP] Stitch in Time
+    1 [ARB] Stormcaller's Boon
+    1 [DIS] Supply/Demand
+    1 [PS] Terminate
+    1 [PS] Treva's Charm
+    1 [CS] Vanish into Memory
+    1 [ARB] Vengeful Rebirth
+    1 [SOM] Venser, the Sojourner
+    1 [JGC] Vindicate
+    1 [ARB] Violent Outburst
+    1 [TSB] Void
+    1 [EVE] Waves of Aggression
+    1 [IN] Wax/Wane
+    1 [SHM] Wheel of Sun and Moon
+    1 [GP] Wreak Havoc
+    1 [DIS] Wrecking Ball
+    
