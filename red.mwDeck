@@ -1,0 +1,288 @@
+// Deck file for Magic Workstation (http://www.magicworkstation.com)
+// NAME: Red
+
+// Creatures
+    1 [TSP] AEtherflame Wall
+    1 [NE] Ancient Hydra
+    1 [JU] Anger
+    1 [LRW] Ashling the Pilgrim
+    1 [MR] Atog
+    1 [FNM] Avalanche Riders
+    1 [PY] Avatar of Fury
+    1 [JU] Barbarian Bully
+    1 [ROE] Battle-Rattle Shaman
+    1 [CH] Beasts of Bogardan
+    1 [SHM] Boggart Arsonists
+    1 [FD] Bringer of the Red Dawn
+    1 [SOK] Burning-Eye Zubera
+    1 [ALA] Caldera Hellion
+    1 [8E] Canyon Wildcat
+    1 [M10] Capricious Efreet
+    1 [SC] Chartooth Cougar
+    1 [ROE] Conquering Manticore
+    1 [MOR] Countryside Crusher
+    1 [US] Crater Hellion
+    1 [UL] Defender of Chaos
+    1 [AP] Desolation Giant
+    1 [PLC] Detritivore
+    1 [P3] Dong Zhou, the Tyrant
+    1 [WWK] Dragonmaster Outcast
+    1 [CFX] Dragonsoul Knight
+    1 [ON] Dwarven Blastminer
+    1 [JU] Dwarven Driller
+    1 [MI] Dwarven Miner
+    2 [ROE] Emrakul's Hatcher
+    1 [PT] Fire Imp
+    1 [MOR] Fire Juggler
+    1 [IN] Firebrand Ranger
+    1 [ALA] Flameblast Dragon
+    1 [FNM] Flametongue Kavu
+    1 [JU] Fledgling Dragon
+    1 [SH] Flowstone Hellion
+    1 [FUT] Gathan Raiders
+    1 [MM] Gerrard's Irregulars
+    1 [ZEN] Geyser Glider
+    1 [UL] Ghitu Slinger
+    1 [ST] Goblin Chariot
+    1 [ON] Goblin Piledriver
+    1 [ON] Goblin Sharpshooter
+    1 [ZEN] Goblin Shortcutter
+    1 [7E] Goblin Spelunkers
+    1 [AL] Gorilla Shaman (1)
+    1 [TSP] Greater Gargadon
+    1 [EVE] Hateflayer
+    1 [ZEN] Hellfire Mongrel
+    1 [SOM] Hoard-Smelter Dragon
+    1 [LE] Imperial Hellkite
+    1 [P3] Imperial Recruiter
+    1 [M11] Inferno Titan
+    1 [LRW] Inner-Flame Igniter
+    1 [CS] Karplusan Minotaur
+    1 [UD] Keldon Champion
+    1 [PLC] Keldon Marauders
+    1 [UD] Keldon Vandals
+    1 [SHM] Knollspine Dragon
+    1 [CHK] Kumano, Master Yamabushi
+    1 [LE] Lavaborn Muse
+    1 [MOR] Lunk Errant
+    1 [P2] Magma Giant
+    1 [ROE] Magmaw
+    1 [PLC] Magus of the Arena
+    1 [FUT] Magus of the Moon
+    1 [M11] Manic Vandal
+    1 [WL] Maraxus of Keld
+    1 [SH] Mogg Maniac
+    1 [TSP] Mogg War Marshal
+    1 [CH] Mountain Yeti
+    1 [VI] Ogre Enforcer
+    1 [IA] Orcish Lumberjack
+    1 [WL] Orcish Settlers
+    1 [5E] Orcish Squatters
+    1 [SOM] Oxidda Scrapmelter
+    1 [CHK] Pain Kami
+    1 [TE] Pallimud
+    1 [ROE] Rage Nimbus
+    1 [PT] Raging Cougar
+    1 [AP] Rakavolver
+    1 [DIS] Rakdos Pit Dragon
+    1 [CFX] Rakka Mar
+    1 [ROE] Rapacious One
+    1 [EX] Ravenous Baboons
+    1 [EX] Reckless Ogre
+    1 [TE] Renegade Warlord
+    1 [US] Retromancer
+    1 [CHK] Ronin Houndmaster
+    1 [REL] Rukh Egg
+    1 [SHM] Rustrazor Butcher
+    1 [PRE] Ryusei, the Falling Star
+    1 [FUT] Scourge of Kher Ridges
+    1 [LE] Shaleskin Plower
+    1 [US] Shivan Hellkite
+    1 [PLC] Shivan Wumpus
+    1 [SC] Siege-Gang Commander
+    1 [ON] Skirk Commando
+    1 [LE] Skirk Marauder
+    1 [RAV] Sparkmage Apprentice
+    1 [LG] Spinal Villain
+    1 [DIS] Squealing Devil
+    1 [MM] Squee, Goblin Nabob
+    1 [DIS] Stalking Vengeance
+    1 [CS] Stalking Yeti
+    1 [EVE] Stigma Lasher
+    1 [RAV] Stoneshaker Shaman
+    1 [FUT] Storm Entity
+    1 [VI] Suq'Ata Lancer
+    1 [PS] Tahngarth, Talruum Hero (Alt)
+    1 [MOR] Taurean Mauler
+    1 [ON] Tephraderm
+    1 [9E] Thundermare
+    1 [PS] Thunderscape Battlemage
+    1 [GP] Tin Street Hooligan
+    1 [ROE] Tuktuk the Explorer
+    1 [SOM] Tunnel Ignus
+    1 [MM] Two-Headed Dragon
+    1 [U] Two-Headed Giant of Foriys
+    1 [UL] Viashino Heretic
+    1 [PLC] Volcano Hellion
+    1 [LE] Warbreak Trumpeter
+    1 [UD] Wild Colos
+    1 [CFX] Worldheart Phoenix
+    1 [ROE] Brimstone Mage
+    1 [REL] Lord of Shatterskull Pass
+
+// Spells
+    1 [US] Acidic Soil
+    1 [M10] Act of Treason
+    1 [ON] Aggravated Assault
+    1 [TSP] Ancient Grudge
+    1 [FUT] Arc Blade
+    1 [US] Arc Lightning
+    1 [SOM] Arc Trail
+    1 [CS] Balduvian Rage
+    1 [CFX] Banefire
+    1 [DS] Barbed Lightning
+    1 [FD] Beacon of Destruction
+    1 [AL] Bestial Fury (1)
+    1 [LRW] Blades of Velis Vel
+    1 [OD] Blazing Salvo
+    1 [LG] Blood Lust
+    1 [DK] Blood Moon
+    1 [PLC] Boom/Bust
+    1 [CS] Braid of Fire
+    1 [US] Brand
+    1 [JU] Breaking Point
+    1 [IN] Breath of Darigaaz
+    1 [JU] Browbeat
+    1 [PLC] Brute Force
+    1 [MI] Builder's Bane
+    1 [ZEN] Burst Lightning
+    1 [SC] Carbonize
+    1 [LG] Chain Lightning
+    1 [ON] Chain of Plasma
+    1 [LRW] Chandra Nalaar
+    1 [ARC] Chandra's Outrage
+    1 [6E] Conquer
+    1 [P3] Control of the Court
+    1 [CHK] Crushing Pain
+    1 [8E] Demolish
+    1 [DIS] Demonfire
+    1 [4E] Detonate
+    2 [ROE] Devastating Summons
+    1 [LG] Disharmony
+    1 [A] Disintegrate
+    1 [DS] Dismantle
+    1 [AP] Dwarven Landslide
+    1 [B] Earthquake
+    1 [MR] Electrostatic Bolt
+    1 [TSP] Empty the Warrens
+    1 [OD] Epicenter
+    1 [EX] Fighting Chance
+    1 [6E] Final Fortune
+    1 [P3] Fire Ambush
+    1 [MPR] Fireball
+    1 [OD] Firebolt
+    1 [WL] Fit of Rage
+    1 [RAV] Flame Fusillade
+    1 [UD] Flame Jet
+    1 [ROE] Flame Slash
+    1 [BOK] Flames of the Blood Hand
+    1 [EX] Flowstone Flood
+    1 [ROE] Forked Bolt
+    1 [SOM] Galvanic Blast
+    1 [BOK] Genju of the Spires
+    1 [IN] Ghitu Fire
+    1 [ALA] Goblin Assault
+    1 [FE] Goblin War Drums (1)
+    1 [MR] Grab the Reins
+    1 [FD] Granulate
+    1 [8E] Guerrilla Tactics
+    1 [MI] Hammer of Bogardan
+    1 [FUT] Haze of Rage
+    1 [LRW] Heat Shimmer
+    1 [CHK] Honden of Infinite Rage
+    1 [DIS] Ignorant Bliss
+    1 [AP] Illuminate
+    1 [LG] Immolation
+    1 [PS] Implode
+    1 [LRW] Incendiary Command
+    1 [5E] Incinerate
+    1 [5E] Jokulhaups
+    1 [MI] Kaervek's Torch
+    1 [SOM] Koth of the Hammer
+    1 [LRW] Lash Out
+    1 [OD] Lava Blister
+    1 [IA] Lava Burst
+    1 [ON] Lay Waste
+    1 [A] Lightning Bolt
+    1 [IN] Lightning Dart
+    1 [MM] Lunge
+    1 [FD] Magma Jet
+    1 [ALA] Magma Spray
+    1 [US] Meltdown
+    1 [RAV] Mindmoil
+    1 [NE] Mogg Salvage
+    1 [LRW] Needle Drop
+    1 [IN] Overload
+    1 [FUT] Pact of the Titan
+    1 [5E] Panic
+    1 [EX] Price of Progress
+    1 [DS] Pulse of the Forge
+    1 [EVE] Puncture Blast
+    1 [SHM] Puncture Bolt
+    1 [ZEN] Punishing Fire
+    1 [IA] Pyroblast
+    1 [IA] Pyroclasm
+    1 [AL] Pyrokinesis
+    1 [US] Raze
+    1 [U] Red Elemental Blast
+    1 [EVE] Rekindled Flame
+    1 [ALA] Resounding Thunder
+    1 [PY] Rhystic Lightning
+    1 [VI] Rock Slide
+    1 [P3] Rolling Earthquake
+    1 [PLC] Rough/Tumble
+    1 [SH] Ruination
+    1 [DS] Savage Beating
+    1 [SC] Scattershot
+    1 [US] Scrap
+    1 [SH] Seething Anger
+    1 [OD] Seize the Day
+    1 [EX] Shattering Pulse
+    1 [GP] Shattering Spree
+    1 [AQ] Shatterstorm
+    1 [PLC] Shivan Meteor
+    1 [BD] Shock
+    1 [OD] Shower of Coals
+    1 [ALA] Skeletonize
+    1 [ON] Slice and Dice
+    1 [AP] Smash
+    1 [SHM] Smash to Smithereens
+    1 [ROE] Spawning Breath
+    1 [ROE] Splinter Twin
+    1 [ROE] Staggershock
+    1 [ON] Starstorm
+    1 [US] Steam Blast
+    1 [WWK] Stone Idol Trap
+    1 [CHK] Stone Rain
+    1 [PS] Strafe
+    1 [TE] Stun
+    1 [TSP] Sudden Shock
+    1 [SOK] Sunder from Within
+    1 [LRW] Tarfire
+    1 [MI] Telim'Tor's Edict
+    1 [FUT] Thunderblade Charge
+    1 [WL] Thunderbolt
+    1 [IN] Tribal Flames
+    1 [IN] Urza's Rage
+    1 [IA] Vertigo
+    1 [9E] Volcanic Hammer
+    1 [M11] Volcanic Strength
+    1 [ALA] Volcanic Submersion
+    1 [DIS] Weight of Spires
+    1 [U] Wheel of Fortune
+    1 [SHM] Wild Swing
+    1 [ROE] Wrap in Flames
+    1 [CHK] Yamabushi's Flame
+    1 [ROE] Heat Ray
+    1 [MGD] Staggershock
+

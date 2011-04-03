@@ -1,8 +1,14 @@
+// Deck file for Magic Workstation (http://www.magicworkstation.com)
+// NAME: Artifacts
+
+// Creatures
     1 [MI] Basalt Golem
+    1 [MBS] Blightsteel Colossus
     1 [MR] Bosh, Iron Golem
     1 [MR] Cathodion
     1 [10E] Colossus of Sardia
     1 [HOP] Copper Myr
+    1 [MBS] Core Prowler
     1 [MM] Crenellated Wall
     1 [9E] Dancing Scimitar
     1 [DS] Darksteel Colossus
@@ -14,20 +20,27 @@
     1 [FUT] Epochrasite
     1 [FD] Ferropede
     1 [DS] Gemini Engine
+    1 [MBS] Gust-Skimmer
     1 [SHM] Heap Doll
     1 [SOM] Ichorclaw Myr
     1 [US] Karn, Silver Golem
+    1 [ROE] Kozilek, Butcher of Truth
     1 [UD] Masticore
     1 [DS] Memnarch
+    1 [MGD] Memnite
     1 [SOM] Memnite
     1 [EX] Mindless Automaton
     1 [SOM] Molten-Tail Masticore
     1 [SOM] Myr Battlesphere
     1 [SOM] Perilous Myr
+    1 [MBS] Phyrexian Juggernaut
     1 [WWK] Pilgrim's Eye
     1 [SHM] Pili-Pala
+    1 [MBS] Plague Myr
     1 [MR] Platinum Angel
     1 [SOM] Platinum Emperion
+    1 [SOM] Precursor Golem
+    1 [MBS] Psychosis Crawler
     1 [NE] Rackling
     1 [FD] Skyreach Manta
     1 [MR] Solemn Simulacrum
@@ -35,10 +48,16 @@
     1 [TSP] Stuffy Doll
     1 [DS] Sundering Titan
     1 [IN] Tek
+    1 [MBS] Thopter Assembly
+    1 [ROE] Ulamog, the Infinite Gyre
+    1 [ROE] Ulamog's Crusher
     1 [WWK] Walking Atlas
     1 [SOM] Wurmcoil Engine
+
+// Spells
     1 [DS] AEther Vial
     1 [FUT] Akroma's Memorial
+    1 [ROE] All Is Dust
     1 [6E] Amber Prison
     1 [MI] Amulet of Unmaking
     1 [ROE] Angelheart Vial
@@ -54,6 +73,7 @@
     1 [BOK] Blinding Powder
     1 [SOK] Blood Clock
     1 [RAV] Bloodletter Quill
+    1 [MBS] Bonehoard
     1 [RAV] Bottled Cloister
     1 [M11] Brittle Effigy
     1 [SH] Bullwhip
@@ -67,8 +87,8 @@
     1 [10E] Citanul Flute
     1 [FD] Clearwater Goblet
     1 [MOR] Cloak and Dagger
-    1 [DDE] Coalition Relic
     1 [FUT] Coalition Relic
+    1 [DDE] Coalition Relic
     1 [CS] Coldsteel Heart
     1 [SOM] Contagion Clasp
     1 [SOM] Contagion Engine
@@ -84,6 +104,7 @@
     1 [DS] Darksteel Brute
     1 [DS] Darksteel Ingot
     1 [DS] Darksteel Pendant
+    1 [MBS] Darksteel Plate
     1 [DS] Darksteel Reactor
     1 [MR] Dead-Iron Sledge
     1 [8E] Defense Grid
@@ -91,6 +112,7 @@
     1 [LRW] Dolmen Gate
     1 [FD] Door to Nothingness
     1 [10E] Doubling Cube
+    1 [ROE] Eldrazi Conscription
     1 [ZEN] Eldrazi Monument
     1 [DM] Elkin Bottle
     1 [FD] Engineered Explosives
@@ -131,6 +153,7 @@
     1 [CHK] Journeyer's Kite
     1 [ZEN] Khalni Gem
     1 [WWK] Kitesail
+    1 [MBS] Knowledge Pool
     1 [LG] Knowledge Vault
     1 [MM] Kyren Archive
     1 [AP] Legacy Weapon
@@ -139,7 +162,7 @@
     1 [5E] Mana Vault
     1 [MI] Mangara's Tome
     1 [UL] Memory Jar
-    2 [MM] Mercadian Atlas
+    1 [MM] Mercadian Atlas
     1 [US] Metrognome
     1 [SOM] Mimic Vat
     1 [GTW] Mind Stone
@@ -166,6 +189,7 @@
     1 [IN] Planar Portal
     1 [MM] Power Matrix
     1 [NE] Predator, Flagship
+    1 [ROE] Prophetic Prism
     1 [MR] Proteus Staff
     1 [MM] Puffer Extract
     1 [MR] Pyrite Spellbomb
@@ -189,8 +213,10 @@
     1 [SOK] Soratami Cloud Chariot
     1 [MR] Soul Foundry
     1 [RAV] Spectral Searchlight
+    1 [MBS] Spine of Ish Sah
     1 [FD] Staff of Domination
     1 [8E] Star Compass
+    1 [MBS] Strandwalker
     1 [MR] Sun Droplet
     1 [RAV] Sunforger
     1 [DS] Sword of Fire and Ice
@@ -198,7 +224,7 @@
     1 [DS] Sword of Light and Shadow
     1 [FUT] Sword of the Meek
     1 [GP] Sword of the Paruns
-    1 [M11] Sword of Vengeance
+    2 [M11] Sword of Vengeance
     1 [NE] Tangle Wire
     1 [AQ] Tawnos's Coffin
     1 [US] Temporal Aperture

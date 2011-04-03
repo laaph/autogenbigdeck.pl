@@ -1,3 +1,7 @@
+// Deck file for Magic Workstation (http://www.magicworkstation.com)
+// NAME: Blue
+
+// Creatures
     1 [UL] Cloud of Faeries
     1 [DD2] Voidmage Apprentice
     1 [M11] Augury Owl
@@ -81,6 +85,8 @@
     1 [RAV] Grozoth
     1 [CFX] Inkwell Leviathan
     1 [FD] Bringer of the Blue Dawn
+
+// Spells
     1 [TSP] Ancestral Vision
     1 [M11] Preordain
     1 [A] Blue Elemental Blast
@@ -182,4 +188,4 @@
     1 [ROE] Recurring Insight
     1 [US] Time Spiral
     1 [M11] Mass Polymorph
-    
+

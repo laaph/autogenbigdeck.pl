@@ -1,0 +1,215 @@
+// Deck file for Magic Workstation (http://www.magicworkstation.com)
+// NAME: White
+
+// Creatures
+    1 [GP] Absolver Thrull
+    1 [UD] Academy Rector
+    1 [CS] Adarkar Valkyrie
+    1 [ALA] Akrasan Squire
+    1 [5E] Angry Mob
+    1 [LRW] Arbiter of Knollridge
+    1 [EVE] Archon of Justice
+    1 [OD] Auramancer
+    1 [TE] Auratog
+    1 [FD] Auriok Salvagers
+    1 [OD] Aven Cloudchaser
+    1 [SC] Aven Liberator
+    1 [FUT] Aven Mindcensor
+    1 [CFX] Aven Squire
+    1 [DIS] Azorius Herald
+    1 [M10] Baneslayer Angel
+    1 [ALA] Battlegrace Angel
+    1 [OD] Beloved Chaplain
+    1 [FD] Bringer of the White Dawn
+    1 [MOR] Burrenton Bombardier
+    1 [ZEN] Cliff Threader
+    1 [TE] Cloudchaser Eagle
+    1 [TSP] Cloudchaser Kestrel
+    1 [ON] Crude Rampart
+    1 [IN] Crusading Knight
+    1 [LE] Daru Sanctifier
+    1 [ON] Dawning Purist
+    1 [ROE] Deathless Angel
+    1 [SOK] Descendant of Kiyomaro
+    1 [ZEN] Emeria Angel
+    1 [SC] Eternal Dragon
+    1 [ON] Exalted Angel
+    1 [UD] False Prophet
+    1 [ZEN] Felidar Sovereign
+    1 [MM] Fountain Watch
+    1 [LRW] Galepowder Mage
+    1 [AP] Gerrard Capashen
+    1 [SOM] Glimmerpoint Stag
+    1 [GP] Graven Dominator
+    1 [DIS] Guardian of the Guildpact
+    1 [M10] Guardian Seraph
+    1 [ON] Gustcloak Savior
+    1 [ON] Gustcloak Skirmisher
+    1 [LRW] Hillcomber Giant
+    1 [UL] Karmic Guide
+    1 [SOK] Kataki, War's Wage
+    1 [ZEN] Kor Cartographer
+    1 [ZEN] Kor Skyfisher
+    1 [SH] Lancers en-Kor
+    1 [MR] Leonin Abunas
+    1 [M10] Lightwielder Paladin
+    1 [FUT] Lost Auramancers
+    1 [PLC] Magus of the Tabernacle
+    1 [CHK] Masako the Humorless
+    1 [SOK] Michiko Konda, Truth Seeker
+    1 [LRW] Mirror Entity
+    1 [US] Monk Idealist
+    1 [US] Monk Realist
+    1 [OD] Mystic Crusader
+    1 [TO] Mystic Familiar
+    1 [CHK] Nagao, Bound by Honor
+    1 [SOK] Nikko-Onna
+    1 [OD] Pianna, Nomad Captain
+    1 [TO] Possessed Nomad
+    1 [ALA] Ranger of Eos
+    1 [PLC] Riftmarked Knight
+    1 [ALA] Sanctum Gargoyle
+    1 [FUT] Seht's Tiger
+    1 [GP] Shrieking Grotesque
+    1 [P3] Shu Cavalry
+    1 [SH] Soltari Champion
+    1 [EX] Soltari Visionary
+    1 [US] Soul Sculptor
+    1 [FUT] Spirit en-Dal
+    1 [LRW] Springjack Knight
+    1 [PLC] Stonecloaker
+    1 [WWK] Stoneforge Mystic
+    1 [MOR] Stonehewer Giant
+    1 [M11] Sun Titan
+    1 [SOM] Sunblast Angel
+    1 [PS] Sunscape Battlemage
+    1 [MR] Taj-Nar Swordsmith
+    1 [EX] Treasure Hunter
+    1 [M10] Undead Slayer
+    1 [LRW] Veteran of the Depths
+    1 [WL] Volunteer Reserves
+    1 [EX] Wall of Nets
+    1 [ROE] Wall of Omens
+    1 [CFX] Wall of Reverence
+    1 [M11] War Priest of Thune
+    1 [TSP] Weathered Bodyguards
+    1 [ON] Weathered Wayfarer
+    1 [FNM] Whipcorder
+    1 [LE] Windborn Muse
+    1 [SHM] Windbrisk Raptor
+    1 [LRW] Wispmare
+    1 [CS] Woolly Razorback
+    1 [ZEN] World Queller
+    1 [CHK] Yosei, the Morning Star
+    1 [ROE] Linvala, Keeper of Silence
+
+// Spells
+    1 [LRW] Ajani Goldmane
+    1 [ON] Akroma's Vengeance
+    1 [EX] Allay
+    1 [PT] Armageddon
+    1 [ZEN] Arrow Volley Trap
+    1 [PS] Aura Blast
+    1 [PY] Aura Fracture
+    1 [ON] Aurification
+    1 [LRW] Austere Command
+    1 [A] Balance
+    1 [OD] Balancing Act
+    1 [7E] Breath of Life
+    1 [US] Catastrophe
+    1 [CFX] Celestial Purge
+    1 [EVE] Cenn's Enlistment
+    1 [8E] Chastise
+    1 [FUT] Chronomantic Escape
+    1 [CHK] Cleanfall
+    1 [TO] Cleansing Meditation
+    1 [US] Clear
+    1 [DIS] Condemn
+    1 [SOK] Curtain of Light
+    1 [ZEN] Day of Judgment
+    1 [SC] Decree of Justice
+    1 [OD] Delaying Shield
+    1 [ON] Demystify
+    1 [RAV] Devouring Light
+    1 [SC] Dimensional Breach
+    1 [5E] Disenchant
+    1 [IN] Dismantling Blow
+    1 [MI] Divine Offering
+    1 [M10] Divine Verdict
+    1 [PS] Dominaria's Judgment
+    1 [SOM] Elspeth Tirel
+    1 [ALA] Elspeth, Knight-Errant
+    1 [EVE] Endless Horizons
+    1 [UL] Erase
+    1 [TSP] Evangelize
+    1 [PY] Excise
+    1 [AL] Exile
+    1 [RAV] Festival of the Guildpact
+    1 [MOR] Feudkiller's Verdict
+    1 [BOK] Final Judgment
+    1 [TE] Gallantry
+    1 [ROE] Gideon Jura
+    1 [7E] Glorious Anthem
+    1 [TSP] Griffin Guide
+    1 [EVE] Hallowed Burial
+    1 [CHK] Honden of Cleansing Fire
+    1 [MM] Honor the Fallen
+    1 [SHM] Inquisitor's Snare
+    1 [WWK] Iona's Judgment
+    1 [P2] Just Fate
+    1 [LG] Land Tax
+    1 [PS] Lashknife Barrier
+    1 [RAV] Leave No Trace
+    1 [ZEN] Luminarch Ascension
+    1 [FUT] Lumithread Field
+    1 [FUT] Marshaling Cry
+    1 [WWK] Marshal's Anthem
+    1 [CFX] Martial Coup
+    1 [M11] Mighty Leap
+    1 [LRW] Militia's Pride
+    1 [VI] Miraculous Recovery
+    1 [LRW] Neck Snap
+    1 [ON] Oblation
+    1 [LRW] Oblivion Ring
+    1 [NE] Parallax Wave
+    1 [US] Pariah
+    1 [GTW] Path to Exile
+    1 [TSP] Pentarch Ward
+    1 [7E] Purify
+    1 [CHK] Quiet Purity
+    1 [UL] Radiant's Judgment
+    1 [P3] Ravages of War
+    1 [JU] Ray of Revelation
+    1 [MPR] Reciprocate
+    1 [ROE] Repel the Darkness
+    1 [UD] Replenish
+    1 [7E] Reprisal
+    1 [ALA] Resounding Silence
+    1 [VI] Retribution of the Meek
+    1 [TSP] Return to Dust
+    1 [SOM] Revoke Existence
+    1 [5E] Righteousness
+    1 [IN] Rout
+    1 [7E] Sacred Ground
+    1 [M10] Safe Passage
+    1 [OD] Second Thoughts
+    1 [RAV] Seed Spark
+    1 [TE] Serene Offering
+    1 [6E] Serenity
+    1 [OD] Shelter
+    1 [SH] Smite
+    1 [MR] Solar Tide
+    1 [M10] Solemn Offering
+    1 [ROE] Survival Cache
+    1 [4E] Swords to Plowshares
+    1 [9E] Tempest of Light
+    1 [BOK] Terashi's Grasp
+    1 [BOK] Terashi's Verdict
+    1 [GP] To Arms!
+    1 [NE] Topple
+    1 [ST] Vengeance
+    1 [TO] Vengeful Dreams
+    1 [SC] Wing Shards
+    1 [SC] Wipe Clean
+    1 [R] Wrath of God
+

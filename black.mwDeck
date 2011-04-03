@@ -1,0 +1,295 @@
+// Deck file for Magic Workstation (http://www.magicworkstation.com)
+// NAME: Black
+
+// Creatures
+    1 [7E] Abyssal Specter
+    1 [WWK] Anowon, the Ruin Sage
+    1 [LE] Aphetto Exterminator
+    1 [ALA] Archdemon of Unx
+    1 [ROE] Arrogant Bloodlord
+    1 [EVE] Ashling, the Extinguisher
+    1 [PY] Avatar of Woe
+    1 [ROE] Bala Ged Scorpion
+    1 [AL] Balduvian Dead
+    1 [LE] Bane of the Living
+    1 [PLC] Big Game Hunter
+    1 [ALA] Blister Beetle
+    1 [SOM] Blistergrub
+    1 [ZEN] Bloodghast
+    1 [ST] Bog Wraith
+    1 [UL] Bone Shredder
+    1 [ON] Boneknitter
+    1 [OD] Braids, Cabal Minion
+    1 [FD] Bringer of the Black Dawn
+    1 [WWK] Butcher of Malakir
+    1 [ON] Cabal Executioner
+    1 [ROE] Cadaver Imp
+    1 [LRW] Cairn Wanderer
+    1 [SOM] Carnifex Demon
+    1 [SC] Carrion Feeder
+    1 [TO] Carrion Wurm
+    1 [TE] Carrionette
+    1 [MI] Catacomb Dragon
+    1 [MM] Cateran Slaver
+    1 [WL] Circling Vultures
+    1 [SOM] Contagious Nim
+    1 [ALA] Corpse Connoisseur
+    1 [OD] Crypt Creeper
+    1 [ALA] Cunning Lethemancer
+    1 [AN] Cuombajj Witches
+    1 [RAV] Dark Confidant
+    1 [US] Dark Hatchling
+    1 [TE] Dauthi Horror
+    1 [TE] Dauthi Marauder
+    1 [WWK] Death's Shadow
+    1 [ROE] Drana, Kalastria Bloodchief
+    1 [M10] Dread Warlock
+    1 [IA] Dread Wight
+    1 [DK] Eater of the Dead
+    1 [DS] Emissary of Despair
+    1 [TSP] Endrek Sahr, Master Breeder
+    1 [ON] Entrails Feaster
+    1 [GP] Exhumer Thrull
+    1 [SHM] Faerie Macabre
+    1 [MOR] Fendeep Summoner
+    1 [JU] Filth
+    1 [MOR] Final-Sting Faerie
+    1 [SOM] Fume Spitter
+    1 [SOM] Geth, Lord of the Vault
+    1 [M11] Grave Titan
+    1 [LE] Graveborn Muse
+    1 [PT] Gravedigger
+    1 [ON] Grinning Demon
+    1 [CFX] Grixis Slavedriver
+    1 [TO] Grotesque Hybrid
+    1 [AN] Guardian Beast
+    1 [ROE] Hellcarver Demon
+    1 [CS] Herald of Leshrac
+    1 [SHM] Hollowborn Barghest
+    1 [AT] Hypnotic Specter
+    1 [LG] Infernal Medusa
+    1 [PRE] Ink-Eyes, Servant of Oni
+    1 [ZEN] Kalitas, Bloodchief of Ghet
+    1 [RAV] Keening Banshee
+    1 [PT] King's Assassin
+    1 [CHK] Kokusho, the Evening Star
+    1 [BOK] Kyoki, Sanity's Eclipse
+    1 [TO] Laquatus's Champion
+    1 [SOK] Maga, Traitor to Mortals
+    1 [FUT] Magus of the Abyss
+    1 [ZEN] Malakir Bloodwitch
+    1 [IN] Marauding Knight
+    1 [LRW] Marsh Flitter
+    1 [PLC] Mirri the Cursed
+    1 [IA] Moor Fiend
+    1 [10E] Mortivore
+    1 [RAV] Necroplasm
+    1 [6E] Necrosavant
+    1 [EVE] Necroskitter
+    1 [SOM] Necrotic Ooze
+    1 [HOP] Nefashu
+    1 [10E] Nekrataal
+    1 [PS] Nightscape Battlemage
+    1 [ROE] Nirkana Revenant
+    1 [MM] Notorious Assassin
+    1 [HOP] Noxious Ghoul
+    1 [CFX] Nyxathid
+    1 [WL] Odylic Wraith
+    1 [BOK] Ogre Marauder
+    1 [BOK] Okiba-Gang Shinobi
+    1 [LRW] Oona's Prowler
+    1 [US] Order of Yawgmoth
+    1 [CFX] Pestilent Kathari
+    1 [AP] Phyrexian Gargantua
+    1 [EX] Plaguebearer
+    1 [SHM] Puppeteer Clique
+    1 [FUT] Putrid Cyclops
+    1 [DIS] Ratcatcher
+    1 [ARC] Reassembling Skeleton
+    1 [GP] Revenant Patriarch
+    1 [PLC] Roiling Horror
+    1 [JUN] Royal Assassin (J)
+    1 [TSB] Sengir Autocrat
+    1 [TSP] Sengir Nosferatu
+    1 [9E] Sengir Vampire
+    1 [TSB] Shadow Guildmage
+    1 [MI] Shauku, Endbringer
+    1 [WWK] Shoreline Salvager
+    1 [LRW] Shriekmaw
+    1 [MM] Silent Assassin
+    1 [ON] Silent Specter
+    1 [DDD] Skeletal Vampire
+    1 [SOM] Skinrender
+    1 [LE] Skinthinner
+    1 [US] Skirge Familiar
+    1 [SOM] Skithiryx, the Blight Dragon
+    1 [GP] Smogsteed Rider
+    1 [TSB] Soul Collector
+    1 [EVE] Soul Snuffers
+    1 [TE] Souldrinker
+    1 [LRW] Spiderwig Boggart
+    1 [RAV] Stinkweed Imp
+    1 [SH] Stronghold Taskmaster
+    1 [CH] The Wretched
+    1 [RAV] Thoughtpicker Witch
+    1 [BOK] Throat Slitter
+    1 [IN] Trench Wurm
+    1 [TSB] Twisted Abomination
+    1 [IN] Urborg Shambler
+    1 [GTW] Vampire Nighthawk
+    1 [ALA] Vein Drinker
+    1 [M11] Viscera Seer
+    1 [CS] Void Maw
+    1 [SH] Wall of Souls
+    1 [LRW] Warren Pilferers
+    1 [P3] Wei Night Raiders
+    1 [9E] Will-o'-the-Wisp
+    1 [MR] Woebearer
+    1 [RAV] Woebringer Demon
+    1 [GTW] Yixlid Jailer
+    1 [P3] Zhang He, Wei General
+    1 [P3] Zodiac Pig
+    1 [CS] Zombie Musher
+    1 [FBP] Guul Draz Assassin
+    1 [ROE] Thought Gorger
+
+// Spells
+    1 [ALA] Ad Nauseam
+    1 [OD] Afflict
+    1 [IN] Agonizing Demise
+    1 [IN] Annihilate
+    1 [TSP] Assassinate
+    1 [PT] Assassin's Blade
+    1 [FD] Beacon of Unrest
+    1 [CHK] Befoul
+    1 [SHM] Beseech the Queen
+    1 [MOR] Bitterblossom
+    1 [BD] Bone Harvest
+    1 [HL] Broken Visage
+    1 [WL] Buried Alive
+    1 [GP] Caustic Rain
+    1 [CS] Chill to the Bone
+    1 [SOK] Choice of Damnations
+    1 [MI] Choking Sands
+    1 [ROE] Consuming Vapors
+    1 [TE] Corpse Dance
+    1 [ROE] Corpsehatch
+    1 [GP] Cry of Contrition
+    1 [TSP] Curse of the Cabal
+    1 [PLC] Damnation
+    1 [IA] Dance of the Dead
+    1 [TE] Dark Banishing
+    1 [M11] Dark Tutelage
+    1 [RAV] Darkblast
+    1 [WWK] Dead Reckoning
+    1 [SOK] Death Denied
+    1 [CS] Deathmark
+    1 [EX] Death's Duet
+    1 [SC] Decree of Pain
+    1 [A] Demonic Tutor
+    1 [PY] Despoil
+    1 [US] Diabolic Servitude
+    1 [8E] Diabolic Tutor
+    1 [ON] Dirge of Dread
+    1 [RAV] Disembowel
+    1 [ZEN] Disfigure
+    1 [TE] Disturbed Burial
+    1 [M10] Doom Blade
+    1 [GP] Douse in Gloom
+    1 [CFX] Drag Down
+    1 [TSP] Dread Return
+    1 [7E] Dregs of Sorrow
+    1 [TE] Endless Scream
+    1 [DS] Essence Drain
+    1 [US] Expunge
+    1 [SOM] Exsanguinate
+    1 [LRW] Eyeblight's Ending
+    1 [WL] Fatal Blow
+    1 [AL] Feast or Famine (2)
+    1 [LRW] Footbottom Feast
+    1 [OD] Ghastly Demise
+    1 [P3] Ghostly Visit
+    1 [SHM] Gloomlance
+    1 [ZEN] Grim Discovery
+    1 [ST] Grim Tutor
+    1 [PT] Hand of Death (ST)
+    1 [MM] Haunted Crossroads
+    1 [HL] Headstone
+    1 [HOP] Hideous End
+    1 [CHK] Honden of Night's Reach
+    1 [IA] Icequake
+    1 [FUT] Ichor Slick
+    1 [US] Ill-Gotten Gains
+    1 [P3] Imperial Seal
+    1 [SOM] Instill Infection
+    1 [LRW] Liliana Vess
+    1 [FD] Lose Hope
+    1 [10E] Midnight Ritual
+    1 [R] Mind Twist
+    1 [FUT] Minions' Murmurs
+    1 [RAV] Moonlight Bargain
+    1 [OD] Morgue Theft
+    1 [VI] Necromancy
+    1 [DM] Necropotence
+    1 [CHK] Night Dealings
+    1 [UL] No Mercy
+    1 [PLC] Null Profusion
+    1 [ON] Oversold Cemetery
+    1 [SOM] Painful Quandary
+    1 [8E] Phyrexian Arena
+    1 [UL] Phyrexian Reclamation
+    1 [LRW] Profane Command
+    1 [SOM] Psychic Miasma
+    1 [ZEN] Quest for the Gravelord
+    1 [5E] Raise Dead
+    1 [TO] Rancid Earth
+    1 [ZEN] Ravenous Trap
+    1 [BRB] Reanimate
+    1 [SC] Reaping the Graves
+    1 [IN] Recover
+    1 [EX] Recurring Nightmare
+    1 [7E] Reprocess
+    1 [ALA] Resounding Scream
+    1 [MOR] Revive the Fallen
+    1 [PY] Rhystic Tutor
+    1 [RAV] Ribbons of Night
+    1 [M11] Rise from the Grave
+    1 [NE] Seal of Doom
+    1 [MM] Sever Soul
+    1 [US] Sicken
+    1 [BOK] Sickening Shoal
+    1 [U] Sinkhole
+    1 [RAV] Sins of the Past
+    1 [EX] Slaughter
+    1 [FUT] Slaughter Pact
+    1 [PS] Slay
+    1 [FNM] Smother
+    1 [DDD] Snuff Out
+    1 [EVE] Soul Reap
+    1 [MI] Soul Rend
+    1 [CS] Soul Spike
+    1 [BOK] Stir the Grave
+    1 [JU] Stitch Together
+    1 [ST] Stream of Acid
+    1 [TSP] Sudden Spoiling
+    2 [ROE] Suffer the Past
+    1 [UL] Swat
+    1 [OD] Tainted Pact
+    1 [SC] Tendrils of Agony
+    1 [A] Terror
+    1 [LG] The Abyss
+    1 [JU] Toxic Stench
+    1 [UL] Unearth
+    1 [TO] Unhinge
+    1 [AP] Urborg Uprising
+    1 [6E] Vampiric Tutor
+    1 [ROE] Vendetta
+    1 [RAV] Vigor Mortis
+    1 [ROE] Virulent Swipe
+    1 [CFX] Voices from the Void
+    1 [CFX] Wretched Banquet
+    1 [UD] Yawgmoth's Bargain
+    1 [US] Yawgmoth's Will
+    1 [ARC] Zombie Infestation
+    1 [MPR] Zombify
+
