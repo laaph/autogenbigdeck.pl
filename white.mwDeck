@@ -45,6 +45,7 @@
     1 [M10] Guardian Seraph
     1 [ON] Gustcloak Savior
     1 [ON] Gustcloak Skirmisher
+    1 [MBS] Hero of Bladehold
     1 [LRW] Hillcomber Giant
     1 [UL] Karmic Guide
     1 [SOK] Kataki, War's Wage
@@ -52,11 +53,15 @@
     1 [ZEN] Kor Skyfisher
     1 [SH] Lancers en-Kor
     1 [MR] Leonin Abunas
+    1 [SOM] Leonin Arbiter
+    1 [MBS] Leonin Relic-Warder
     1 [M10] Lightwielder Paladin
+    1 [ROE] Linvala, Keeper of Silence
     1 [FUT] Lost Auramancers
     1 [PLC] Magus of the Tabernacle
     1 [CHK] Masako the Humorless
     1 [SOK] Michiko Konda, Truth Seeker
+    1 [MBS] Mirran Crusader
     1 [LRW] Mirror Entity
     1 [US] Monk Idealist
     1 [US] Monk Realist
@@ -67,6 +72,7 @@
     1 [OD] Pianna, Nomad Captain
     1 [TO] Possessed Nomad
     1 [ALA] Ranger of Eos
+    1 [SOM] Razor Hippogriff
     1 [PLC] Riftmarked Knight
     1 [ALA] Sanctum Gargoyle
     1 [FUT] Seht's Tiger
@@ -101,7 +107,6 @@
     1 [CS] Woolly Razorback
     1 [ZEN] World Queller
     1 [CHK] Yosei, the Morning Star
-    1 [ROE] Linvala, Keeper of Silence
 
 // Spells
     1 [LRW] Ajani Goldmane
@@ -175,6 +180,7 @@
     1 [US] Pariah
     1 [GTW] Path to Exile
     1 [TSP] Pentarch Ward
+    1 [MBS] Phyrexian Rebirth
     1 [7E] Purify
     1 [CHK] Quiet Purity
     1 [UL] Radiant's Judgment

@@ -2,244 +2,254 @@
 // NAME: Artifacts
 
 // Creatures
-    1 [MI] Basalt Golem
-    1 [MBS] Blightsteel Colossus
-    1 [MR] Bosh, Iron Golem
-    1 [MR] Cathodion
-    1 [10E] Colossus of Sardia
-    1 [HOP] Copper Myr
-    1 [MBS] Core Prowler
-    1 [MM] Crenellated Wall
-    1 [9E] Dancing Scimitar
-    1 [DS] Darksteel Colossus
-    1 [SOM] Darksteel Sentinel
-    1 [PS] Draco
-    1 [R] Dragon Engine
-    1 [MR] Duplicant
-    1 [MR] Duskworker
-    1 [FUT] Epochrasite
-    1 [FD] Ferropede
-    1 [DS] Gemini Engine
-    1 [MBS] Gust-Skimmer
-    1 [SHM] Heap Doll
-    1 [SOM] Ichorclaw Myr
-    1 [US] Karn, Silver Golem
-    1 [ROE] Kozilek, Butcher of Truth
-    1 [UD] Masticore
-    1 [DS] Memnarch
-    1 [MGD] Memnite
-    1 [SOM] Memnite
-    1 [EX] Mindless Automaton
-    1 [SOM] Molten-Tail Masticore
-    1 [SOM] Myr Battlesphere
-    1 [SOM] Perilous Myr
-    1 [MBS] Phyrexian Juggernaut
-    1 [WWK] Pilgrim's Eye
-    1 [SHM] Pili-Pala
-    1 [MBS] Plague Myr
-    1 [MR] Platinum Angel
+    1 [MR] Gold Myr
+    1 [SOM] Silver Myr
     1 [SOM] Platinum Emperion
-    1 [SOM] Precursor Golem
-    1 [MBS] Psychosis Crawler
-    1 [NE] Rackling
-    1 [FD] Skyreach Manta
-    1 [MR] Solemn Simulacrum
+    1 [SOM] Palladium Myr
+    1 [SOM] Golem Artisan
+    1 [SOM] Necropede
+    1 [SOM] Molten-Tail Masticore
+    1 [SOM] Leaden Myr
+    1 [MR] Iron Myr
+    1 [SOM] Ichorclaw Myr
+    1 [MI] Basalt Golem
     1 [SOM] Steel Hellkite
-    1 [TSP] Stuffy Doll
-    1 [DS] Sundering Titan
-    1 [IN] Tek
-    1 [MBS] Thopter Assembly
-    1 [ROE] Ulamog, the Infinite Gyre
     1 [ROE] Ulamog's Crusher
+    1 [ROE] Ulamog, the Infinite Gyre
+    1 [MBS] Thopter Assembly
+    1 [IN] Tek
+    1 [DS] Sundering Titan
+    1 [TSP] Stuffy Doll
     1 [WWK] Walking Atlas
+    1 [MR] Solemn Simulacrum
+    1 [FD] Skyreach Manta
+    1 [NE] Rackling
+    1 [MBS] Psychosis Crawler
+    1 [SOM] Precursor Golem
+    1 [MR] Platinum Angel
+    1 [MBS] Plague Myr
+    1 [SHM] Pili-Pala
     1 [SOM] Wurmcoil Engine
+    1 [9E] Dancing Scimitar
+    1 [MR] Duskworker
+    1 [MR] Duplicant
+    1 [R] Dragon Engine
+    1 [PS] Draco
+    1 [SOM] Darksteel Sentinel
+    1 [DS] Darksteel Colossus
+    1 [FUT] Epochrasite
+    1 [MM] Crenellated Wall
+    1 [MBS] Core Prowler
+    1 [HOP] Copper Myr
+    1 [10E] Colossus of Sardia
+    1 [MR] Cathodion
+    1 [MR] Bosh, Iron Golem
+    1 [MBS] Blightsteel Colossus
+    1 [WWK] Pilgrim's Eye
+    1 [DS] Memnarch
+    1 [MBS] Phyrexian Juggernaut
+    1 [SOM] Perilous Myr
+    1 [SOM] Myr Battlesphere
+    1 [EX] Mindless Automaton
+    1 [SOM] Memnite
+    1 [MGD] Memnite
+    1 [FD] Ferropede
+    1 [UD] Masticore
+    1 [ROE] Kozilek, Butcher of Truth
+    1 [US] Karn, Silver Golem
+    1 [SHM] Heap Doll
+    1 [MBS] Gust-Skimmer
+    1 [DS] Gemini Engine
 
 // Spells
-    1 [DS] AEther Vial
-    1 [FUT] Akroma's Memorial
-    1 [ROE] All Is Dust
-    1 [6E] Amber Prison
-    1 [MI] Amulet of Unmaking
-    1 [ROE] Angelheart Vial
-    1 [SOM] Argentum Armor
-    1 [SC] Ark of Blight
-    1 [CFX] Armillary Sphere
-    1 [AL] Ashnod's Cylix
-    1 [DK] Barl's Cage
-    1 [WWK] Basilisk Collar
-    1 [A] Black Lotus
-    1 [B] Black Vise
-    1 [SHM] Blight Sickle
-    1 [BOK] Blinding Powder
-    1 [SOK] Blood Clock
-    1 [RAV] Bloodletter Quill
-    1 [MBS] Bonehoard
-    1 [RAV] Bottled Cloister
-    1 [M11] Brittle Effigy
-    1 [SH] Bullwhip
-    1 [AQ] Candelabra of Tawnos
-    1 [FD] Chimeric Coils
-    1 [SOM] Chimeric Mass
-    1 [WL] Chimeric Sphere
-    1 [10E] Chimeric Staff
-    1 [MR] Chrome Mox
-    1 [TSP] Chronatog Totem
-    1 [10E] Citanul Flute
-    1 [FD] Clearwater Goblet
-    1 [MOR] Cloak and Dagger
-    1 [FUT] Coalition Relic
-    1 [DDE] Coalition Relic
-    1 [CS] Coldsteel Heart
-    1 [SOM] Contagion Clasp
-    1 [SOM] Contagion Engine
-    1 [UL] Crawlspace
-    1 [10E] Crucible of Worlds
-    1 [M11] Crystal Ball
-    2 [US] Crystal Chimes
-    1 [AQ] Cursed Rack
-    1 [6E] Cursed Totem
-    1 [U] Cyclopean Tomb
-    1 [MR] Damping Matrix
-    1 [SOM] Darksteel Axe
-    1 [DS] Darksteel Brute
-    1 [DS] Darksteel Ingot
-    1 [DS] Darksteel Pendant
-    1 [MBS] Darksteel Plate
-    1 [DS] Darksteel Reactor
-    1 [MR] Dead-Iron Sledge
-    1 [8E] Defense Grid
-    2 [VI] Diamond Kaleidoscope
-    1 [LRW] Dolmen Gate
-    1 [FD] Door to Nothingness
-    1 [10E] Doubling Cube
-    1 [ROE] Eldrazi Conscription
-    1 [ZEN] Eldrazi Monument
-    1 [DM] Elkin Bottle
-    1 [FD] Engineered Explosives
-    1 [8E] Ensnaring Bridge
-    1 [FD] Ensouled Scimitar
-    1 [ZEN] Eternity Vessel
-    1 [WWK] Everflowing Chalice
-    1 [ZEN] Expedition Map
-    1 [ZEN] Explorer's Scope
-    1 [NE] Eye of Yawgmoth
-    1 [AQ] Feldon's Cane
-    1 [DK] Fellwar Stone
-    1 [MR] Fireshrieker
-    1 [TSP] Foriysian Totem
-    1 [CHK] General's Kabuto
-    1 [FUT] Ghostfire
-    1 [MR] Gilded Lotus
-    1 [SHM] Gnarled Effigy
-    1 [FD] Goblin Cannon
-    1 [MR] Goblin Charbelcher
-    1 [M10] Gorgon Flail
-    1 [SOM] Grafted Exoskeleton
-    1 [FD] Grafted Wargear
-    1 [MR] Granite Shard
-    1 [ZEN] Grappling Hook
-    1 [GP] Gruul War Plow
-    1 [FD] Guardian Idol
-    1 [AL] Gustha's Scepter
-    1 [MR] Heartwood Shard
-    1 [FD] Helm of Kaldra
-    1 [FD] Horned Helm
-    1 [U] Icy Manipulator
-    1 [SOM] Infiltration Lens
-    1 [MR] Isochron Scepter
-    1 [R] Ivory Tower
-    1 [9E] Jade Statue
-    1 [10E] Jayemdae Tome
-    1 [CHK] Journeyer's Kite
-    1 [ZEN] Khalni Gem
-    1 [WWK] Kitesail
-    1 [MBS] Knowledge Pool
-    1 [LG] Knowledge Vault
-    1 [MM] Kyren Archive
-    1 [AP] Legacy Weapon
-    1 [DDE] Lightning Greaves
-    1 [10E] Loxodon Warhammer
-    1 [5E] Mana Vault
-    1 [MI] Mangara's Tome
-    1 [UL] Memory Jar
-    1 [MM] Mercadian Atlas
-    1 [US] Metrognome
-    1 [SOM] Mimic Vat
-    1 [GTW] Mind Stone
-    1 [MR] Mind's Eye
-    1 [TSB] Mirari
-    1 [US] Mishra's Helix
-    1 [LRW] Moonglove Extract
-    1 [CHK] Moonring Mirror
     1 [SH] Mox Diamond
-    1 [B] Mox Emerald
-    1 [U] Mox Jet
-    1 [B] Mox Pearl
-    1 [B] Mox Ruby
-    1 [B] Mox Sapphire
     1 [MR] Myr Incubator
+    1 [B] Mox Sapphire
+    1 [B] Mox Ruby
+    1 [B] Mox Pearl
+    1 [U] Mox Jet
+    1 [B] Mox Emerald
     1 [5E] Nevinyrral's Disk
-    1 [CFX] Obelisk of Alara
-    1 [MR] Oblivion Stone
-    1 [SOK] O-Naginata
-    1 [BOK] Ornate Kanzashi
-    1 [CHK] Orochi Hatchery
-    1 [DS] Panoptic Mirror
-    1 [RAV] Plague Boiler
-    1 [IN] Planar Portal
+    1 [CHK] Moonring Mirror
+    1 [LRW] Moonglove Extract
+    1 [US] Mishra's Helix
+    1 [TSB] Mirari
+    1 [MR] Mind's Eye
+    1 [GTW] Mind Stone
+    1 [SOM] Mimic Vat
+    1 [US] Metrognome
     1 [MM] Power Matrix
-    1 [NE] Predator, Flagship
-    1 [ROE] Prophetic Prism
-    1 [MR] Proteus Staff
-    1 [MM] Puffer Extract
-    1 [MR] Pyrite Spellbomb
     1 [ALA] Quietus Spike
+    1 [MR] Pyrite Spellbomb
+    1 [MM] Puffer Extract
+    1 [MR] Proteus Staff
+    1 [ROE] Prophetic Prism
+    1 [NE] Predator, Flagship
+    1 [CFX] Obelisk of Alara
+    1 [IN] Planar Portal
+    1 [RAV] Plague Boiler
+    1 [DS] Panoptic Mirror
+    1 [CHK] Orochi Hatchery
+    1 [BOK] Ornate Kanzashi
+    1 [SOK] O-Naginata
+    1 [MR] Oblivion Stone
     1 [ALA] Relic of Progenitus
-    1 [R] Rocket Launcher
-    1 [TSP] Sarpadian Empires, Vol. VII
-    1 [TE] Scroll Rack
-    1 [10E] Sculpting Steel
-    1 [CHK] Sensei's Divining Top
-    1 [LG] Serpent Generator
-    1 [DDD] Serrated Arrows
-    1 [HOP] Skeleton Shard
-    1 [8E] Skull of Orm
-    1 [FD] Skullcage
-    1 [DS] Skullclamp
-    1 [PS] Skyship Weatherlight
-    1 [US] Smokestack
-    1 [6E] Snake Basket
-    1 [R] Sol Ring
-    1 [SOK] Soratami Cloud Chariot
-    1 [MR] Soul Foundry
-    1 [RAV] Spectral Searchlight
-    1 [MBS] Spine of Ish Sah
-    1 [FD] Staff of Domination
-    1 [8E] Star Compass
-    1 [MBS] Strandwalker
-    1 [MR] Sun Droplet
-    1 [RAV] Sunforger
-    1 [DS] Sword of Fire and Ice
-    1 [MR] Sword of Kaldra
-    1 [DS] Sword of Light and Shadow
-    1 [FUT] Sword of the Meek
-    1 [GP] Sword of the Paruns
-    2 [M11] Sword of Vengeance
-    1 [NE] Tangle Wire
-    1 [AQ] Tawnos's Coffin
-    1 [US] Temporal Aperture
-    1 [BOK] That Which Was Taken
-    1 [6E] The Hive
-    1 [TSB] The Rack
-    1 [WL] Thran Tome
-    1 [TSB] Tormod's Crypt
-    1 [ZEN] Trailblazer's Boots
-    1 [US] Umbilicus
+    1 [AL] Gustha's Scepter
+    1 [MR] Isochron Scepter
+    1 [SOM] Infiltration Lens
+    1 [U] Icy Manipulator
+    1 [FD] Horned Helm
+    1 [FD] Helm of Kaldra
+    1 [MR] Heartwood Shard
+    1 [R] Ivory Tower
+    1 [FD] Guardian Idol
+    1 [GP] Gruul War Plow
+    1 [ZEN] Grappling Hook
+    1 [MR] Granite Shard
+    1 [FD] Grafted Wargear
+    1 [SOM] Grafted Exoskeleton
+    1 [M10] Gorgon Flail
+    1 [MM] Mercadian Atlas
+    1 [MM] Kyren Archive
+    1 [UL] Memory Jar
+    1 [MI] Mangara's Tome
+    1 [5E] Mana Vault
+    1 [10E] Loxodon Warhammer
+    1 [DDE] Lightning Greaves
+    1 [AP] Legacy Weapon
+    1 [9E] Jade Statue
+    1 [LG] Knowledge Vault
+    1 [MBS] Knowledge Pool
+    1 [WWK] Kitesail
+    1 [ZEN] Khalni Gem
+    1 [CHK] Journeyer's Kite
+    1 [10E] Jayemdae Tome
+    1 [MR] Goblin Charbelcher
     1 [GPX] Umezawa's Jitte
-    1 [SOM] Venser's Journal
-    1 [IA] Vibrating Sphere
-    1 [EVE] Ward of Bones
-    1 [10E] Whispersilk Cloak
-    1 [M11] Whispersilk Cloak
     1 [IA] Zuran Orb
+    1 [M11] Whispersilk Cloak
+    1 [10E] Whispersilk Cloak
+    1 [EVE] Ward of Bones
+    1 [IA] Vibrating Sphere
+    1 [SOM] Venser's Journal
+    1 [US] Umbilicus
+    1 [ZEN] Trailblazer's Boots
+    1 [TSB] Tormod's Crypt
+    1 [WL] Thran Tome
+    1 [TSB] The Rack
+    1 [6E] The Hive
+    1 [BOK] That Which Was Taken
+    1 [US] Temporal Aperture
+    1 [SOM] Nim Deathmantle
+    1 [MBS] Sword of Feast and Famine
+    1 [M11] Sword of Vengeance
+    1 [US] Crystal Chimes
+    1 [SOM] Horizon Spellbomb
+    1 [R] Rocket Launcher
+    1 [8E] Skull of Orm
+    1 [R] Sol Ring
+    1 [6E] Snake Basket
+    1 [US] Smokestack
+    1 [PS] Skyship Weatherlight
+    1 [DS] Skullclamp
+    1 [FD] Skullcage
+    1 [SOK] Soratami Cloud Chariot
+    1 [HOP] Skeleton Shard
+    1 [DDD] Serrated Arrows
+    1 [LG] Serpent Generator
+    1 [CHK] Sensei's Divining Top
+    1 [10E] Sculpting Steel
+    1 [TE] Scroll Rack
+    1 [TSP] Sarpadian Empires, Vol. VII
+    1 [AQ] Tawnos's Coffin
+    1 [RAV] Sunforger
+    1 [NE] Tangle Wire
+    1 [GP] Sword of the Paruns
+    1 [FUT] Sword of the Meek
+    1 [DS] Sword of Light and Shadow
+    1 [MR] Sword of Kaldra
+    1 [DS] Sword of Fire and Ice
+    1 [MR] Soul Foundry
+    1 [MR] Sun Droplet
+    1 [MBS] Strandwalker
+    1 [8E] Star Compass
+    1 [FD] Staff of Domination
+    1 [MBS] Spine of Ish Sah
+    1 [RAV] Spectral Searchlight
+    1 [SOM] Argentum Armor
+    1 [A] Black Lotus
+    1 [WWK] Basilisk Collar
+    1 [DK] Barl's Cage
+    1 [AL] Ashnod's Cylix
+    1 [CFX] Armillary Sphere
+    1 [SC] Ark of Blight
+    1 [ROE] Angelheart Vial
+    1 [MI] Amulet of Unmaking
+    1 [6E] Amber Prison
+    1 [ROE] All Is Dust
+    1 [FUT] Akroma's Memorial
+    1 [DS] AEther Vial
+    1 [B] Black Vise
+    1 [FD] Goblin Cannon
+    1 [LRW] Dolmen Gate
+    1 [FD] Engineered Explosives
+    1 [DM] Elkin Bottle
+    1 [ZEN] Eldrazi Monument
+    1 [ROE] Eldrazi Conscription
+    1 [10E] Doubling Cube
+    1 [FD] Door to Nothingness
+    1 [8E] Ensnaring Bridge
+    1 [8E] Defense Grid
+    1 [MR] Dead-Iron Sledge
+    1 [DS] Darksteel Reactor
+    1 [MBS] Darksteel Plate
+    1 [DS] Darksteel Pendant
+    1 [DS] Darksteel Ingot
+    1 [DS] Darksteel Brute
+    1 [SOM] Darksteel Axe
+    1 [DK] Fellwar Stone
+    1 [SHM] Gnarled Effigy
+    1 [MR] Gilded Lotus
+    1 [FUT] Ghostfire
+    1 [CHK] General's Kabuto
+    1 [TSP] Foriysian Totem
+    1 [MR] Fireshrieker
+    1 [FD] Ensouled Scimitar
+    1 [AQ] Feldon's Cane
+    1 [NE] Eye of Yawgmoth
+    1 [ZEN] Explorer's Scope
+    1 [ZEN] Expedition Map
+    1 [WWK] Everflowing Chalice
+    1 [ZEN] Eternity Vessel
+    1 [SHM] Blight Sickle
+    1 [AQ] Candelabra of Tawnos
+    1 [TSP] Chronatog Totem
+    1 [MR] Chrome Mox
+    1 [10E] Chimeric Staff
+    1 [WL] Chimeric Sphere
+    1 [SOM] Chimeric Mass
+    1 [FD] Chimeric Coils
+    1 [10E] Citanul Flute
+    1 [SH] Bullwhip
+    1 [M11] Brittle Effigy
+    1 [RAV] Bottled Cloister
+    1 [MBS] Bonehoard
+    1 [RAV] Bloodletter Quill
+    1 [SOK] Blood Clock
+    1 [BOK] Blinding Powder
+    1 [MR] Damping Matrix
+    1 [UL] Crawlspace
+    1 [U] Cyclopean Tomb
+    1 [6E] Cursed Totem
+    1 [AQ] Cursed Rack
+    1 [M11] Crystal Ball
+    1 [10E] Crucible of Worlds
+    1 [FD] Clearwater Goblet
+    1 [SOM] Contagion Engine
+    1 [SOM] Contagion Clasp
+    1 [CS] Coldsteel Heart
+    1 [DDE] Coalition Relic
+    1 [FUT] Coalition Relic
+    1 [MOR] Cloak and Dagger
+    1 [VI] Diamond Kaleidoscope
 

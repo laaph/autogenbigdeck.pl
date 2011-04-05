@@ -63,6 +63,7 @@
     1 [CFX] Grixis Slavedriver
     1 [TO] Grotesque Hybrid
     1 [AN] Guardian Beast
+    1 [FBP] Guul Draz Assassin
     1 [ROE] Hellcarver Demon
     1 [CS] Herald of Leshrac
     1 [SHM] Hollowborn Barghest
@@ -100,6 +101,7 @@
     1 [LRW] Oona's Prowler
     1 [US] Order of Yawgmoth
     1 [CFX] Pestilent Kathari
+    1 [MBS] Phyrexian Crusader
     1 [AP] Phyrexian Gargantua
     1 [EX] Plaguebearer
     1 [SHM] Puppeteer Clique
@@ -109,6 +111,7 @@
     1 [GP] Revenant Patriarch
     1 [PLC] Roiling Horror
     1 [JUN] Royal Assassin (J)
+    1 [MBS] Sangromancer
     1 [TSB] Sengir Autocrat
     1 [TSP] Sengir Nosferatu
     1 [9E] Sengir Vampire
@@ -131,6 +134,7 @@
     1 [RAV] Stinkweed Imp
     1 [SH] Stronghold Taskmaster
     1 [CH] The Wretched
+    1 [ROE] Thought Gorger
     1 [RAV] Thoughtpicker Witch
     1 [BOK] Throat Slitter
     1 [IN] Trench Wurm
@@ -150,8 +154,6 @@
     1 [P3] Zhang He, Wei General
     1 [P3] Zodiac Pig
     1 [CS] Zombie Musher
-    1 [FBP] Guul Draz Assassin
-    1 [ROE] Thought Gorger
 
 // Spells
     1 [ALA] Ad Nauseam
@@ -210,6 +212,7 @@
     1 [OD] Ghastly Demise
     1 [P3] Ghostly Visit
     1 [SHM] Gloomlance
+    1 [MBS] Go for the Throat
     1 [ZEN] Grim Discovery
     1 [ST] Grim Tutor
     1 [PT] Hand of Death (ST)
@@ -231,11 +234,13 @@
     1 [OD] Morgue Theft
     1 [VI] Necromancy
     1 [DM] Necropotence
+    1 [M11] Necrotic Plague
     1 [CHK] Night Dealings
     1 [UL] No Mercy
     1 [PLC] Null Profusion
     1 [ON] Oversold Cemetery
     1 [SOM] Painful Quandary
+    1 [MBS] Phyresis
     1 [8E] Phyrexian Arena
     1 [UL] Phyrexian Reclamation
     1 [LRW] Profane Command
@@ -268,13 +273,15 @@
     1 [EVE] Soul Reap
     1 [MI] Soul Rend
     1 [CS] Soul Spike
+    1 [MBS] Spread the Sickness
     1 [BOK] Stir the Grave
     1 [JU] Stitch Together
     1 [ST] Stream of Acid
     1 [TSP] Sudden Spoiling
-    2 [ROE] Suffer the Past
+    1 [ROE] Suffer the Past
     1 [UL] Swat
     1 [OD] Tainted Pact
+    1 [SOM] Tainted Strike
     1 [SC] Tendrils of Agony
     1 [A] Terror
     1 [LG] The Abyss

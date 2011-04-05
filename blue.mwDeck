@@ -2,190 +2,193 @@
 // NAME: Blue
 
 // Creatures
-    1 [UL] Cloud of Faeries
-    1 [DD2] Voidmage Apprentice
+    1 [PLC] Aeon Chronicler
+    1 [MM] Aerial Caravan
+    1 [M11] Air Servant
+    1 [OD] Amugaba
+    1 [CS] Arcum Dagsson
+    1 [SOM] Argent Sphinx
     1 [M11] Augury Owl
-    1 [5E] Magus of the Unseen
-    1 [MM] Saprazzan Heir
-    1 [US] Fog Bank
-    1 [EX] Dominating Licid
-    1 [MR] Fatespinner
-    1 [PLC] Shaper Parasite
-    1 [BOK] Kira, Great Glass-Spinner
-    1 [10E] Phantom Warrior
-    1 [P2] Talas Warrior
-    1 [SOM] Neurok Invisimancer
-    1 [FD] Trinket Mage
-    1 [EVE] Wake Thrasher
-    1 [AP] Whirlpool Warrior
-    1 [PS] Stormscape Battlemage
-    1 [DIS] Court Hussar
-    1 [ALA] Esper Battlemage
-    1 [ROE] Guard Gomazoa
-    1 [ARE] Man-o'-War
-    1 [JU] Wormfang Drake
-    1 [VI] Shimmering Efreet
     1 [UL] Bouncing Beebles
+    1 [DD2] Brine Elemental
+    1 [FD] Bringer of the Blue Dawn
+    1 [PLC] Chronozoa
+    1 [M11] Clone
+    1 [UL] Cloud of Faeries
+    1 [MBS] Consecrated Sphinx
+    1 [DIS] Court Hussar
+    1 [LE] Covert Operative
+    1 [10E] Denizen of the Deep
+    1 [M10] Djinn of Wishes
+    1 [EX] Dominating Licid
+    1 [TSP] Draining Whelk
+    1 [CS] Drelnoch
+    1 [TE] Escaped Shapeshifter
+    1 [ALA] Esper Battlemage
+    1 [CFX] Ethersworn Adjudicator
+    1 [MR] Fatespinner
+    1 [TSP] Fledgling Mawcor
+    1 [US] Fog Bank
+    1 [M11] Frost Titan
+    1 [US] Great Whale
+    1 [RAV] Grozoth
+    1 [ROE] Guard Gomazoa
+    1 [DD2] Guile
+    1 [CFX] Inkwell Leviathan
+    1 [TSP] Ixidron
+    1 [NE] Jolting Merfolk
+    1 [ALA] Kederekt Leviathan
+    1 [BOK] Kira, Great Glass-Spinner
+    1 [ROE] Lighthouse Chronologist
+    1 [TO] Llawan, Cephalid Empress
+    1 [ZEN] Lorthos, the Tidemaker
+    1 [P3] Lu Meng, Wu General
+    1 [FUT] Maelstrom Djinn
+    1 [FUT] Magus of the Future
+    1 [TSP] Magus of the Jar
+    1 [5E] Magus of the Unseen
+    1 [A] Mahamoti Djinn
+    1 [ARE] Man-o'-War
+    1 [MI] Mist Dragon
+    1 [FNM] Mulldrifter
+    1 [SOM] Neurok Invisimancer
+    1 [BOK] Ninja of the Deep Hours
+    1 [UL] Palinchron
+    1 [10E] Phantom Warrior
+    1 [TO] Possessed Aven
+    1 [DD2] Quicksilver Dragon
+    1 [SOM] Quicksilver Gargantuan
+    1 [MM] Rishadan Brigand
+    1 [MM] Rishadan Footpad
+    1 [MM] Saprazzan Heir
+    1 [SOM] Scrapdiver Serpent
+    1 [PLC] Serra Sphinx
+    1 [PLC] Shaper Parasite
+    1 [ALA] Sharding Sphinx
+    1 [VI] Shimmering Efreet
     1 [MOR] Slithermuse
     1 [CHK] Soratami Savant
     1 [LRW] Sower of Temptation
-    1 [TO] Possessed Aven
-    1 [SOM] Argent Sphinx
-    1 [NE] Jolting Merfolk
-    1 [M11] Clone
-    1 [BOK] Ninja of the Deep Hours
-    1 [CS] Arcum Dagsson
-    1 [FNM] Wonder
-    1 [AP] Whirlpool Drake
-    1 [JU] Wormfang Crab
-    1 [TSP] Fledgling Mawcor
-    1 [PLC] Chronozoa
-    1 [MM] Rishadan Footpad
-    1 [TO] Llawan, Cephalid Empress
-    1 [FUT] Magus of the Future
-    1 [PLC] Serra Sphinx
-    1 [P3] Lu Meng, Wu General
-    1 [TSP] Ixidron
-    1 [TSP] Magus of the Jar
-    1 [ZEN] Sphinx of Lost Truths
-    1 [P3] Sun Ce, Young Conquerer
-    1 [TSP] Vesuvan Shapeshifter
-    1 [TE] Escaped Shapeshifter
-    1 [PLC] Aeon Chronicler
-    1 [M10] Djinn of Wishes
-    1 [FNM] Mulldrifter
-    1 [M11] Air Servant
-    1 [MM] Rishadan Brigand
-    1 [IA] Wind Spirit
-    1 [CFX] Ethersworn Adjudicator
-    1 [LE] Covert Operative
-    1 [CS] Drelnoch
-    1 [DD2] Guile
-    1 [TSP] Draining Whelk
-    1 [DD2] Brine Elemental
-    1 [A] Mahamoti Djinn
-    1 [MI] Mist Dragon
-    1 [MM] Aerial Caravan
-    1 [M11] Frost Titan
-    1 [DD2] Quicksilver Dragon
-    1 [P3] Sun Quan, Lord of Wu
-    1 [ALA] Sharding Sphinx
     1 [ZEN] Sphinx of Jwar Isle
-    1 [SOM] Scrapdiver Serpent
-    1 [WL] Tolarian Serpent
-    1 [OD] Amugaba
-    1 [UL] Palinchron
-    1 [US] Great Whale
-    1 [SOM] Quicksilver Gargantuan
+    1 [ZEN] Sphinx of Lost Truths
+    1 [PS] Stormscape Battlemage
     1 [M11] Stormtide Leviathan
-    1 [ZEN] Lorthos, the Tidemaker
-    1 [10E] Denizen of the Deep
-    1 [ALA] Kederekt Leviathan
-    1 [FUT] Maelstrom Djinn
-    1 [RAV] Grozoth
-    1 [CFX] Inkwell Leviathan
-    1 [FD] Bringer of the Blue Dawn
+    1 [P3] Sun Ce, Young Conquerer
+    1 [P3] Sun Quan, Lord of Wu
+    1 [P2] Talas Warrior
+    1 [WL] Tolarian Serpent
+    1 [FD] Trinket Mage
+    1 [TSP] Vesuvan Shapeshifter
+    1 [DD2] Voidmage Apprentice
+    1 [EVE] Wake Thrasher
+    1 [AP] Whirlpool Drake
+    1 [AP] Whirlpool Warrior
+    1 [IA] Wind Spirit
+    1 [FNM] Wonder
+    1 [JU] Wormfang Crab
+    1 [JU] Wormfang Drake
 
 // Spells
-    1 [TSP] Ancestral Vision
-    1 [M11] Preordain
-    1 [A] Blue Elemental Blast
-    1 [PT] Cloak of Feathers
-    1 [FNM] Brainstorm
-    1 [B] Ancestral Recall
-    1 [TE] Shadow Rift
-    1 [MM] Soothsaying
-    1 [LG] Psychic Purge
-    1 [M10] Ponder
-    1 [PT] Personal Tutor
-    1 [EX] Curiosity
-    1 [SH] Leap
-    1 [5E] Hydroblast
-    1 [ARE] Serum Visions
-    1 [IN] Disrupt
-    1 [FUT] Mystic Speculation
-    1 [TSP] Spell Burst
-    1 [DD2] Condescend
-    1 [OD] Syncopate
     1 [WL] Ancestral Knowledge
-    1 [P3] Strategic Planning
-    1 [NE] Daze
-    1 [A] Copy Artifact
-    1 [10E] Telling Time
-    1 [ZEN] Spreading Seas
-    1 [A] Time Walk
-    1 [AP] Jilt
-    1 [FNM] Impulse
-    1 [CHK] Squelch
-    1 [LRW] Wings of Velis Vel
-    1 [CH] Dance of Many
-    1 [SOK] Ideas Unbound
-    1 [LG] Mana Drain
-    1 [CS] Counterbalance
-    1 [MOR] Mind Spring
-    1 [R] Braingeyser
-    1 [FNM] Dissipate
-    1 [TE] Capsize
-    1 [WWK] Spell Contortion
-    1 [BRB] Windfall
-    1 [JU] Web of Inertia
-    1 [PT] Symbol of Unsummoning
-    1 [UL] Rebuild
-    1 [P3] Borrowing 100,000 Arrows
-    1 [US] Attunement
-    1 [PY] Rethink
-    1 [DD2] Repulse
-    1 [TE] Propaganda
-    1 [EX] Theft of Dreams
-    1 [MR] Fabricate
-    1 [ON] Complicate
-    1 [JU] Keep Watch
-    1 [TE] Intuition
-    1 [RAV] Copy Enchantment
-    1 [JGC] Stroke of Genius
-    1 [ARE] Dismiss
-    1 [ON] Discombobulate
-    1 [LG] Land Equilibrium
-    1 [ZEN] Summoner's Bane
+    1 [B] Ancestral Recall
+    1 [TSP] Ancestral Vision
     1 [9E] Annex
-    1 [ZEN] Rite of Replication
-    1 [ARE] Rewind
-    1 [FUT] Shapeshifter's Marrow
-    1 [SH] Reins of Power
-    1 [BRB] Control Magic
-    1 [WWK] Jace, the Mind Sculptor
-    1 [DIS] Psychic Possession
+    1 [US] Attunement
+    1 [A] Blue Elemental Blast
+    1 [P3] Borrowing 100,000 Arrows
+    1 [R] Braingeyser
+    1 [FNM] Brainstorm
     1 [CST] Browse
-    1 [ZEN] Mindbreak Trap
-    1 [IA] Ray of Command
-    1 [MI] Polymorph
-    1 [WL] Pendrell Mists
-    1 [V09] Gifts Ungiven
-    1 [RAV] Flight of Fancy
-    1 [FUT] Foresee
-    1 [OD] Touch of Invisibility
-    1 [IN] Fact or Fiction
-    1 [TO] Deep Analysis
+    1 [TE] Capsize
+    1 [PT] Cloak of Feathers
     1 [IN] Collective Restraint
-    1 [ON] Future Sight
+    1 [ON] Complicate
+    1 [DD2] Condescend
+    1 [US] Confiscate
+    1 [BRB] Control Magic
+    1 [A] Copy Artifact
+    1 [RAV] Copy Enchantment
+    1 [MBS] Corrupted Conscience
+    1 [CS] Counterbalance
+    1 [EX] Curiosity
+    1 [CH] Dance of Many
+    1 [NE] Daze
+    1 [TO] Deep Analysis
     1 [VI] Desertion
+    1 [ON] Discombobulate
+    1 [ARE] Dismiss
+    1 [IN] Disrupt
+    1 [FNM] Dissipate
     1 [DPA] Evacuation
-    1 [PY] Heightened Awareness
+    1 [MR] Fabricate
+    1 [IN] Fact or Fiction
+    1 [RAV] Flight of Fancy
     1 [RAV] Followed Footsteps
     1 [AL] Force of Will
-    1 [SC] Parallel Thoughts
-    1 [FUT] Spellweaver Volute
-    1 [UD] Treachery
-    1 [ALA] Tezzeret the Seeker
-    1 [10E] Sunken Hope
-    1 [US] Sunder
-    1 [SC] Rush of Knowledge
+    1 [FUT] Foresee
+    1 [ON] Future Sight
+    1 [V09] Gifts Ungiven
+    1 [PY] Heightened Awareness
     1 [CHK] Honden of Seeing Winds
-    1 [JGC] Mind's Desire
-    1 [CHK] Time Stop
-    1 [US] Confiscate
-    1 [FUT] Reality Strobe
-    1 [ROE] Recurring Insight
-    1 [US] Time Spiral
+    1 [5E] Hydroblast
+    1 [SOK] Ideas Unbound
+    1 [FNM] Impulse
+    1 [TE] Intuition
+    1 [WWK] Jace, the Mind Sculptor
+    1 [AP] Jilt
+    1 [JU] Keep Watch
+    1 [LG] Land Equilibrium
+    1 [SH] Leap
+    1 [LG] Mana Drain
     1 [M11] Mass Polymorph
+    1 [MOR] Mind Spring
+    1 [ZEN] Mindbreak Trap
+    1 [JGC] Mind's Desire
+    1 [FUT] Mystic Speculation
+    1 [SC] Parallel Thoughts
+    1 [WL] Pendrell Mists
+    1 [PT] Personal Tutor
+    1 [MI] Polymorph
+    1 [M10] Ponder
+    1 [M11] Preordain
+    1 [TE] Propaganda
+    1 [DIS] Psychic Possession
+    1 [LG] Psychic Purge
+    1 [IA] Ray of Command
+    1 [FUT] Reality Strobe
+    1 [UL] Rebuild
+    1 [ROE] Recurring Insight
+    1 [SH] Reins of Power
+    1 [DD2] Repulse
+    1 [PY] Rethink
+    1 [ARE] Rewind
+    1 [ZEN] Rite of Replication
+    1 [SC] Rush of Knowledge
+    1 [ARE] Serum Visions
+    1 [TE] Shadow Rift
+    1 [FUT] Shapeshifter's Marrow
+    1 [MM] Soothsaying
+    1 [TSP] Spell Burst
+    1 [WWK] Spell Contortion
+    1 [FUT] Spellweaver Volute
+    1 [ZEN] Spreading Seas
+    1 [CHK] Squelch
+    1 [P3] Strategic Planning
+    1 [JGC] Stroke of Genius
+    1 [ZEN] Summoner's Bane
+    1 [US] Sunder
+    1 [10E] Sunken Hope
+    1 [PT] Symbol of Unsummoning
+    1 [OD] Syncopate
+    1 [10E] Telling Time
+    1 [ALA] Tezzeret the Seeker
+    1 [EX] Theft of Dreams
+    1 [US] Time Spiral
+    1 [CHK] Time Stop
+    1 [A] Time Walk
+    1 [OD] Touch of Invisibility
+    1 [UD] Treachery
+    1 [JU] Web of Inertia
+    1 [BRB] Windfall
+    1 [LRW] Wings of Velis Vel
 
