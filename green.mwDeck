@@ -8,6 +8,7 @@
     1 [WL] Aboroth
     1 [SOM] Acid Web Spider
     1 [M10] Acidic Slime
+    1 [M11] Acidic Slime
     1 [DS] Ageless Entity
     1 [ALA] Algae Gharial
     1 [PRE] Allosaurus Rider
@@ -16,6 +17,7 @@
     1 [AP] Anavolver
     1 [UD] Ancient Silverback
     1 [REL] Ant Queen
+    1 [TO] Anurid Scavenger
     1 [SOK] Arashi, the Sky Asunder
     1 [WL] Arctic Wolves
     1 [US] Argothian Wurm
@@ -26,6 +28,7 @@
     1 [ZEN] Baloth Woodcrasher
     1 [SOM] Bellowing Tanglewurm
     1 [SOM] Blight Mamba
+    1 [MBS] Blightwidow
     1 [M10] Borderland Ranger
     1 [JU] Brawn
     1 [HOP] Briarhorn
@@ -109,11 +112,13 @@
     1 [WWK] Omnath, Locus of Mana
     1 [ROE] Ondu Giant
     1 [ZEN] Oracle of Mul Daya
+    1 [ROE] Overgrown Battlement
     1 [CS] Panglacial Wurm
     1 [DIS] Patagia Viper
     1 [LE] Patron of the Wild
     1 [TSP] Penumbra Spider
     1 [AP] Penumbra Wurm
+    1 [MBS] Phyrexian Hydra
     1 [TO] Possessed Centaur
     1 [ST] Pride of Lions
     1 [M11] Primeval Titan
@@ -129,6 +134,7 @@
     1 [P2] River Bear
     1 [6E] River Boa
     1 [SC] Root Elemental
+    1 [MBS] Rot Wolf
     1 [MM] Saber Ants
     1 [FNM] Sakura-Tribe Elder
     1 [BOK] Sakura-Tribe Springcaller
@@ -141,6 +147,7 @@
     1 [TSP] Spectral Force
     1 [FUT] Sporoloth Ancient
     1 [P2] Sylvan Basilisk
+    1 [GTW] Sylvan Ranger
     1 [FD] Sylvok Explorer
     1 [ON] Symbiotic Beast
     1 [SOM] Tangle Angler
@@ -205,10 +212,12 @@
     1 [RAV] Fists of Ironwood
     1 [GAM] Garruk Wildspeaker
     1 [ROE] Gelatinous Genesis
+    1 [SOM] Genesis Wave
     1 [DDD] Genju of the Cedars
     1 [SHM] Gleeful Sabotage
     1 [SHM] Gloomwidow's Feast
     1 [9E] Greater Good
+    1 [MBS] Green Sun's Zenith
     1 [JU] Grizzly Fate
     1 [OD] Ground Seal
     1 [ROE] Growth Spasm
@@ -220,6 +229,7 @@
     1 [CHK] Kodama's Reach
     1 [TSP] Krosan Grip
     1 [MM] Land Grant
+    1 [MBS] Lead the Stampede
     1 [RAV] Life from the Loam
     1 [M10] Lurking Predators
     1 [TE] Mirri's Guile
@@ -231,7 +241,9 @@
     1 [TSP] Mwonvuli Acid-Moss
     1 [CS] Mystic Melting
     1 [M11] Nature's Spiral
+    1 [DPA] Nature's Spiral
     1 [FE] Night Soil (3)
+    1 [MBS] Pistus Strike
     1 [M11] Plummet
     1 [ON] Primal Boost
     1 [GP] Primeval Light
