@@ -23,7 +23,7 @@ sub loadMWScards {
     return @cards;
 }
 
-@cards = loadMWScards("gold.mwDeck");
+@cards = loadMWScards("black.mwDeck");
 
 foreach(@cards) {
     next unless /\d\s+\[\w+\]\s+(.+)/;
@@ -61,8 +61,18 @@ while(1) {
 	$castingcost{$a} = "nil";
 	$typeofcard{$a}  = $b;
     }
+
+    if($typeofcard{$a} =~ m/Creature/i) {
+	$d = <FILE>;
+	$d =~ s/\s+$//;
+	$powertoughness{$a} = $d;
+    } else {
+	$powertoughness = "nil";
+    }
 	
     while(1) {
+	# I am not adding the parsing of the text fields yet, although
+	# that can be done fairly easily as well.
 	$z = <FILE>;
 	if($z !~ /\S/) { last; }
 	last if eof;
@@ -70,7 +80,11 @@ while(1) {
 }
 
 foreach $a (@names) {
-    print("$castingcost{$a} [$a] - $typeofcard{$a}\n");
+    print("$castingcost{$a} [$a] - $typeofcard{$a}");
+    if($typeofcard{$a} =~ m/Creature/i) {
+	print(" - $powertoughness{$a}");
+    }
+    print("\n");
 }
    
 
