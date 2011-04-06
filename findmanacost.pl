@@ -23,12 +23,13 @@ sub loadMWScards {
     return @cards;
 }
 
-@cards = loadMWScards("green.mwDeck");
+@cards = loadMWScards("gold.mwDeck");
 
 foreach(@cards) {
     next unless /\d\s+\[\w+\]\s+(.+)/;
     $r = $1;
-    $r =~ s/\(.*\)//;  # To remove parenthesis
+    $r =~ s/\(.*\)//;  # To remove parenthesis and the stuff inside them
+    $r =~ s#/# // #;  # Future maintainers please forgive me - to turn Boom/Bust into Boom // Bust
     $r =~ s/\s+$//;  # Fucking line endings
 
 #    print("[$r]\n");
@@ -43,31 +44,33 @@ open(FILE, $filename) or die $!;
 while(1) {
     $a = <FILE>;
     $b = <FILE>;
-    
-#    if(($a == undef) or ($b == undef)) { last; }
+    $c = <FILE>;
+
     last if eof;
     $a =~ s/\s+$//;
     $b =~ s/\s+$//;
+    $c =~ s/\s+$//;
 
-#    print("Hi -- $b $a\n");
+    $castingcost{$a} = $b;
+    $typeofcard{$a}  = $c;
 
-#    if($b =~ /G/) {
-    $cc{$a} = $b;
-#	print("$b $a\n");
-#    }
+    if(($castingcost{$a} =~ m/Land/i)    or
+       ($castingcost{$a} =~ m/Instant/i) or
+       ($castingcost{$a} =~ m/Sorcery/i)) {
+
+	$castingcost{$a} = "nil";
+	$typeofcard{$a}  = $b;
+    }
 	
     while(1) {
 	$z = <FILE>;
-#	print($z);
 	if($z !~ /\S/) { last; }
 	last if eof;
-#	if($z == undef)     { last; }
-#	print("ignored = $z");
     }
 }
 
 foreach $a (@names) {
-    print("$cc{$a} [$a]\n");
+    print("$castingcost{$a} [$a] - $typeofcard{$a}\n");
 }
    
 
