@@ -4,22 +4,18 @@ use List::Util qw(shuffle);
 
 sub pickcardsfromfilename {
 	$filename = shift;
-	#print("$filename\n");
+	$color = $filename; $color =~ s/\.mwDeck//; print(OUT "  \/\/ $color\n");
 	open(FILE, $filename) or die $!;
 	@cards = <FILE>;
 	close FILE;
 	
 	
 	for ($i = 0; $i < scalar(@cards); $i++) {
-	
-		#unshift(@a, $i) if $cards[$i] =~ m(\/\/);  # double forward slash
 		if($cards[$i] =~ m(\/\/)) {
 			unshift(@a, $i);
-#			print("$cards[$i]\n");
 		}
 		if($cards[$i] !~ m/\w/) {
 			unshift(@a, $i);
-#			print("$cards[$i]\n");  # Any card should have a word in it
 		}
 	}
 
@@ -70,8 +66,6 @@ print(OUT "    1 [R] Volcanic Island\n");
 # Except we'll use more lands.
 
 $numcards = 50;  # This plus 7 or 8 of each basic land seems a good amount.
-
-# I am actually going to cheat, and just call the sub with land three times
 
 pickcardsfromfilename("lands.mwDeck");
 
