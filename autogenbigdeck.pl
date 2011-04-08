@@ -23,7 +23,7 @@ sub pickcardsfromfilename {
 		delete $cards[$r];
 	}
 	
-	print(OUT "@cards[(shuffle(0..$#cards))[1..$numcards]]");
+	print(OUT "@cards[(shuffle(0..$#cards))[0..$numcards]]");
 }
 
 # Autogen file name
