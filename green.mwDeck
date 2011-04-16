@@ -179,6 +179,7 @@
     1 [SHM] Woodfall Primus
     1 [P3] Zodiac Horse
     1 [P3] Zodiac Ox
+    1 [IA] Pygmy Allosaurus
 
 // Spells
     1 [TO] Acorn Harvest
@@ -248,7 +249,7 @@
     1 [M11] Plummet
     1 [ON] Primal Boost
     1 [GP] Primeval Light
-    1 [WWK] Quest for Renewal
+    2 [WWK] Quest for Renewal
     1 [UL] Rancor
     1 [MOR] Reach of Branches
     1 [DS] Reap and Sow
@@ -285,4 +286,5 @@
     1 [LRW] Woodland Guidance
     1 [6E] Worldly Tutor
     1 [TSP] Wurmcalling
+    1 [MOR] Cream of the Crop
 
