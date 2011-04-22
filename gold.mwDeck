@@ -20,6 +20,7 @@
     1 [GP] Burning-Tree Shaman
     1 [IN] Captain Sisay
     1 [ARB] Cerodon Yearling
+    1 [IN] Charging Troll
     1 [CFX] Charnelhoard Wurm
     1 [CFX] Child of Alara
     1 [EVE] Cold-Eyed Selkie
@@ -49,6 +50,7 @@
     1 [SHM] Fulminator Mage
     1 [AP] Fungal Shambler
     1 [CFX] Fusion Elemental
+    1 [LRW] Gaddock Teeg
     1 [CS] Garza Zol, Plague Queen
     1 [ARB] Giant Ambush Beetle
     1 [CFX] Giltspire Avenger
@@ -58,6 +60,7 @@
     1 [RAV] Golgari Rotwurm
     1 [RAV] Grave-Shell Scarab
     1 [IN] Hanna, Ship's Navigator
+    1 [TSP] Harmonic Sliver
     1 [LG] Hazezon Tamar
     1 [HOP] Hearthfire Hobgoblin
     1 [SHM] Heartmender
@@ -174,7 +177,6 @@
     1 [WWK] Wrexial, the Risen Deep
     1 [GP] Yore-Tiller Nephilim
     1 [CS] Zur the Enchanter
-    1 [LRW] Gaddock Teeg
 
 // Spells
     1 [IN] Absorb
@@ -198,6 +200,7 @@
     1 [IN] Cauldron Dance
     1 [ARB] Colossal Might
     1 [AP] Consume Strength
+    1 [DIS] Crime/Punishment
     1 [ALA] Cruel Ultimatum
     1 [DDE] Darigaaz's Charm
     1 [AP] Death Grasp
@@ -248,6 +251,7 @@
     1 [SHM] Poison the Well
     1 [ARB] Predatory Advantage
     1 [AP] Prophetic Bolt
+    1 [DIS] Pure/Simple
     1 [MI] Purgatory
     1 [MPR] Putrefy
     1 [AP] Quicksilver Dagger
@@ -266,6 +270,7 @@
     1 [IN] Sleeper's Robe
     1 [EVE] Snakeform
     1 [IN] Spinal Embrace
+    1 [IN] Spite/Malice
     1 [EVE] Spitting Image
     1 [IN] Sterling Grove
     1 [GP] Stitch in Time
@@ -285,6 +290,4 @@
     1 [SHM] Wheel of Sun and Moon
     1 [GP] Wreak Havoc
     1 [DIS] Wrecking Ball
-    1 [DIS] Crime/Punishment
-    1 [DIS] Pure/Simple
 

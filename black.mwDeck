@@ -31,6 +31,7 @@
     1 [TE] Carrionette
     1 [MI] Catacomb Dragon
     1 [MM] Cateran Slaver
+    1 [SHM] Cinderbones
     1 [WL] Circling Vultures
     1 [SOM] Contagious Nim
     1 [ALA] Corpse Connoisseur
@@ -54,6 +55,8 @@
     1 [MOR] Fendeep Summoner
     1 [JU] Filth
     1 [MOR] Final-Sting Faerie
+    1 [MR] Flayed Nim
+    1 [UL] Fog of Gnats
     1 [SOM] Fume Spitter
     1 [SOM] Geth, Lord of the Vault
     1 [M11] Grave Titan
@@ -91,6 +94,7 @@
     1 [HOP] Nefashu
     1 [10E] Nekrataal
     1 [PS] Nightscape Battlemage
+    1 [PS] Nightscape Familiar
     1 [ROE] Nirkana Revenant
     1 [MM] Notorious Assassin
     1 [HOP] Noxious Ghoul
@@ -122,10 +126,12 @@
     1 [MM] Silent Assassin
     1 [ON] Silent Specter
     1 [DDD] Skeletal Vampire
+    1 [SH] Skeleton Scavengers
     1 [SOM] Skinrender
     1 [LE] Skinthinner
     1 [US] Skirge Familiar
     1 [SOM] Skithiryx, the Blight Dragon
+    1 [MR] Slith Bloodletter
     1 [GP] Smogsteed Rider
     1 [TSB] Soul Collector
     1 [EVE] Soul Snuffers
@@ -140,8 +146,10 @@
     1 [IN] Trench Wurm
     1 [TSB] Twisted Abomination
     1 [IN] Urborg Shambler
+    1 [ZEN] Vampire Hexmage
     1 [GTW] Vampire Nighthawk
     1 [ALA] Vein Drinker
+    1 [ON] Visara the Dreadful
     1 [M11] Viscera Seer
     1 [CS] Void Maw
     1 [SH] Wall of Souls
@@ -154,7 +162,6 @@
     1 [P3] Zhang He, Wei General
     1 [P3] Zodiac Pig
     1 [CS] Zombie Musher
-    1 [ZEN] Vampire Hexmage
 
 // Spells
     1 [ALA] Ad Nauseam
@@ -202,8 +209,10 @@
     1 [CFX] Drag Down
     1 [TSP] Dread Return
     1 [7E] Dregs of Sorrow
+    1 [HL] Drudge Spell
     1 [TE] Endless Scream
     1 [DS] Essence Drain
+    1 [9E] Execute
     1 [US] Expunge
     1 [SOM] Exsanguinate
     1 [LRW] Eyeblight's Ending
@@ -277,6 +286,7 @@
     1 [MBS] Spread the Sickness
     1 [BOK] Stir the Grave
     1 [JU] Stitch Together
+    1 [RAV] Strands of Undeath
     1 [ST] Stream of Acid
     1 [TSP] Sudden Spoiling
     1 [ROE] Suffer the Past

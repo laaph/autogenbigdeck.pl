@@ -37,6 +37,7 @@
     1 [UD] False Prophet
     1 [ZEN] Felidar Sovereign
     1 [MM] Fountain Watch
+    1 [SC] Frontline Strategist
     1 [LRW] Galepowder Mage
     1 [AP] Gerrard Capashen
     1 [SOM] Glimmerpoint Stag
@@ -47,6 +48,7 @@
     1 [ON] Gustcloak Skirmisher
     1 [MBS] Hero of Bladehold
     1 [LRW] Hillcomber Giant
+    1 [ON] Ironfist Crusher
     1 [UL] Karmic Guide
     1 [SOK] Kataki, War's Wage
     1 [ZEN] Kor Cartographer
@@ -58,6 +60,7 @@
     1 [M10] Lightwielder Paladin
     1 [ROE] Linvala, Keeper of Silence
     1 [FUT] Lost Auramancers
+    1 [ST] Loyal Sentry
     1 [PLC] Magus of the Tabernacle
     1 [CHK] Masako the Humorless
     1 [SOK] Michiko Konda, Truth Seeker
@@ -71,6 +74,7 @@
     1 [SOK] Nikko-Onna
     1 [OD] Pianna, Nomad Captain
     1 [TO] Possessed Nomad
+    1 [LRW] Purity
     1 [ALA] Ranger of Eos
     1 [SOM] Razor Hippogriff
     1 [PLC] Riftmarked Knight
@@ -81,6 +85,7 @@
     1 [SH] Soltari Champion
     1 [EX] Soltari Visionary
     1 [US] Soul Sculptor
+    1 [AP] Spectral Lynx
     1 [FUT] Spirit en-Dal
     1 [LRW] Springjack Knight
     1 [PLC] Stonecloaker
@@ -107,8 +112,6 @@
     1 [CS] Woolly Razorback
     1 [ZEN] World Queller
     1 [CHK] Yosei, the Morning Star
-    1 [ST] Loyal Sentry
-    1 [LRW] Purity
 
 // Spells
     1 [LRW] Ajani Goldmane
@@ -184,6 +187,7 @@
     1 [GTW] Path to Exile
     1 [TSP] Pentarch Ward
     1 [MBS] Phyrexian Rebirth
+    1 [DS] Purge
     1 [7E] Purify
     1 [CHK] Quiet Purity
     1 [UL] Radiant's Judgment
@@ -221,5 +225,4 @@
     1 [SC] Wing Shards
     1 [SC] Wipe Clean
     1 [R] Wrath of God
-    1 [DS] Purge
 

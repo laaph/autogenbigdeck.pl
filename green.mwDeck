@@ -34,6 +34,7 @@
     1 [HOP] Briarhorn
     1 [FD] Bringer of the Green Dawn
     1 [LE] Brontotherium
+    1 [H09] Brood Sliver
     1 [ON] Broodhatch Nantuko
     1 [CS] Brooding Saurian
     1 [PT] Bull Hippo (DG)
@@ -64,6 +65,7 @@
     1 [M11] Gaea's Revenge
     1 [UD] Gamekeeper
     1 [M11] Garruk's Packleader
+    1 [TSP] Gemhide Sliver
     1 [JU] Giant Warthog
     1 [ON] Gigapede
     1 [RAV] Golgari Brownscale
@@ -74,9 +76,11 @@
     1 [M11] Greater Basilisk
     1 [9E] Groundskeeper
     1 [TSP] Havenwood Wurm
+    1 [REL] Hedge Troll
     1 [P3] Hunting Cheetah
     1 [ON] Hystrodon
     1 [DDD] Indrik Stomphowler
+    1 [BOK] Isao, Enlightened Bushi
     1 [HOP] Ivy Elemental
     1 [FD] Joiner Adept
     1 [M10] Kalonian Behemoth
@@ -125,6 +129,7 @@
     1 [RAV] Primordial Sage
     1 [DIS] Protean Hulk
     1 [M11] Protean Hydra
+    1 [IA] Pygmy Allosaurus
     1 [PS] Quirion Dryad
     1 [OD] Rabid Elephant
     1 [PRE] Rampaging Baloths
@@ -133,13 +138,13 @@
     1 [ALA] Rhox Charger
     1 [P2] River Bear
     1 [6E] River Boa
-    1 [SC] Root Elemental
     1 [MBS] Rot Wolf
     1 [MM] Saber Ants
     1 [FNM] Sakura-Tribe Elder
     1 [BOK] Sakura-Tribe Springcaller
     1 [ZEN] Scute Mob
     1 [LRW] Seedguide Ash
+    1 [ON] Serpentine Basilisk
     1 [9E] Silklash Spider
     1 [MM] Silverglade Elemental
     1 [EX] Skyshroud War Beast
@@ -156,12 +161,16 @@
     1 [SH] Tempting Licid
     1 [WWK] Terastodon
     1 [OD] Terravore
+    1 [ARC] Thelonite Hermit
     1 [U] Thicket Basilisk
     1 [IN] Thicket Elemental
     1 [7E] Thorn Elemental
     1 [DDE] Thornscape Battlemage
     1 [PY] Thresher Beast
+    1 [MBS] Thrun, the Last Troll
     1 [EVE] Tilling Treefolk
+    1 [MR] Troll Ascetic
+    1 [MR] Trolls of Tel-Jilad
     1 [ZEN] Turntimber Ranger
     1 [ARE] Uktabi Orangutan
     1 [RAV] Ursapine
@@ -179,7 +188,6 @@
     1 [SHM] Woodfall Primus
     1 [P3] Zodiac Horse
     1 [P3] Zodiac Ox
-    1 [IA] Pygmy Allosaurus
 
 // Spells
     1 [TO] Acorn Harvest
@@ -196,6 +204,7 @@
     1 [US] Carpet of Flowers
     1 [U] Channel
     1 [ZEN] Cobra Trap
+    1 [MOR] Cream of the Crop
     1 [9E] Creeping Mold
     1 [M11] Cultivate
     1 [MR] Deconstruct
@@ -245,6 +254,7 @@
     1 [DPA] Nature's Spiral
     1 [M11] Nature's Spiral
     1 [FE] Night Soil (3)
+    1 [DS] Oxidize
     1 [MBS] Pistus Strike
     1 [M11] Plummet
     1 [ON] Primal Boost
@@ -278,7 +288,6 @@
     1 [AP] Tranquil Path
     1 [MM] Tranquility
     1 [TSP] Verdant Embrace
-    1 [ON] Vitality Charm
     1 [OD] Vivify
     1 [H09] Wild Pair
     1 [GP] Wildsize
@@ -286,5 +295,4 @@
     1 [LRW] Woodland Guidance
     1 [6E] Worldly Tutor
     1 [TSP] Wurmcalling
-    1 [MOR] Cream of the Crop
 
